@@ -2226,12 +2226,12 @@
     {
       "confTeams" : [
         {
-          "abbreviation" : "BUF",
+          "abbreviation" : "BUFF",
           "prestige" : "63",
           "hexColor" : "#000004",
-          "rival" : "EMI",
+          "rival" : "EMU",
           "headCoach" : {
-            "contractLength" : "5",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "36",
             "ratOff" : "50",
@@ -2277,9 +2277,9 @@
           "abbreviation" : "MOH",
           "prestige" : "42",
           "hexColor" : "#3600a0",
-          "rival" : "OH",
+          "rival" : "OHIO",
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "41",
             "ratOff" : "55",
@@ -2298,12 +2298,12 @@
           "state" : "Ohio"
         },
         {
-          "abbreviation" : "OH",
+          "abbreviation" : "OHIO",
           "prestige" : "43",
           "hexColor" : "#FDB813",
           "rival" : "MOH",
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "49",
             "ratOff" : "60",
@@ -2318,14 +2318,14 @@
             "name" : "Brendan Musshorn",
             "contractYear" : "0"
           },
-          "name" : "Ohio University",
+          "name" : "Ohio",
           "state" : "Ohio"
         },
         {
-          "abbreviation" : "EMI",
+          "abbreviation" : "EMU",
           "prestige" : "60",
           "hexColor" : "#002D62",
-          "rival" : "BUF",
+          "rival" : "BUFF",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2020",
@@ -2349,9 +2349,9 @@
           "abbreviation" : "TOL",
           "prestige" : "49",
           "hexColor" : "#FFF63E",
-          "rival" : "BOWL",
+          "rival" : "BGSU",
           "headCoach" : {
-            "contractLength" : "5",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "44",
             "ratOff" : "53",
@@ -2375,7 +2375,7 @@
           "hexColor" : "#5e6062",
           "rival" : "NIU",
           "headCoach" : {
-            "contractLength" : "5",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "53",
             "ratOff" : "60",
@@ -2399,7 +2399,7 @@
           "hexColor" : "#080808",
           "rival" : "KENT",
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "56",
             "ratOff" : "56",
@@ -2418,12 +2418,12 @@
           "state" : "Ohio"
         },
         {
-          "abbreviation" : "BOWL",
+          "abbreviation" : "BGSU",
           "prestige" : "40",
           "hexColor" : "#ffc425",
           "rival" : "TOL",
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "35",
             "ratOff" : "53",
@@ -2447,7 +2447,7 @@
           "hexColor" : "#0E1112",
           "rival" : "AKR",
           "headCoach" : {
-            "contractLength" : "3",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "34",
             "ratOff" : "54",
