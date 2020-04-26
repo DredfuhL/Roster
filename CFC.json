@@ -1999,7 +1999,7 @@
             "name" : "Armando Mitkowski",
             "contractYear" : "0"
           },
-          "name" : "Alabama Birmingham",
+          "name" : "UAB",
           "state" : "Alabama"
         },
         {
@@ -2008,7 +2008,7 @@
           "hexColor" : "#3F7D91",
           "rival" : "UAB",
           "headCoach" : {
-            "contractLength" : "3",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "44",
             "ratOff" : "60",
@@ -2023,7 +2023,7 @@
             "name" : "Dwight Finkler",
             "contractYear" : "0"
           },
-          "name" : "Middle Tennessee State",
+          "name" : "Middle Tennessee",
           "state" : "Tennessee"
         },
         {
@@ -2032,7 +2032,7 @@
           "hexColor" : "#6A0403",
           "rival" : "FIU",
           "headCoach" : {
-            "contractLength" : "3",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "43",
             "ratOff" : "62",
@@ -2056,7 +2056,7 @@
           "hexColor" : "#1E1A1B",
           "rival" : "FAU",
           "headCoach" : {
-            "contractLength" : "5",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "44",
             "ratOff" : "62",
@@ -2075,12 +2075,12 @@
           "state" : "Florida"
         },
         {
-          "abbreviation" : "MAR",
+          "abbreviation" : "MRSH",
           "prestige" : "51",
           "hexColor" : "#EECFA1",
           "rival" : "ODU",
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "43",
             "ratOff" : "62",
@@ -2102,9 +2102,9 @@
           "abbreviation" : "ODU",
           "prestige" : "49",
           "hexColor" : "#69207E",
-          "rival" : "PRO",
+          "rival" : "MRSH",
           "headCoach" : {
-            "contractLength" : "5",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "39",
             "ratOff" : "70",
@@ -2128,7 +2128,7 @@
           "hexColor" : "#FF2000",
           "rival" : "UTEP",
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "30",
             "ratOff" : "60",
@@ -2152,7 +2152,7 @@
           "hexColor" : "#FD0026",
           "rival" : "UNT",
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "52",
             "ratOff" : "55",
@@ -2167,16 +2167,16 @@
             "name" : "Jermaine Brak",
             "contractYear" : "0"
           },
-          "name" : "UT El Paso",
+          "name" : "UTEP",
           "state" : "Texas"
         },
         {
           "abbreviation" : "WKU",
           "prestige" : "48",
           "hexColor" : "#C2A14D",
-          "rival" : "LAT",
+          "rival" : "LT",
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "4",
             "startYear" : "2021",
             "age" : "38",
             "ratOff" : "54",
@@ -2195,12 +2195,12 @@
           "state" : "Kentucky"
         },
         {
-          "abbreviation" : "LAT",
+          "abbreviation" : "LT",
           "prestige" : "53",
           "hexColor" : "#00285C",
           "rival" : "WKU",
           "headCoach" : {
-            "contractLength" : "5",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "50",
             "ratOff" : "60",
@@ -2221,7 +2221,7 @@
       ],
       "confFullName" : "Conference USA",
       "confPrestige" : "36",
-      "confName" : "C-USA"
+      "confName" : "CUSA"
     },
     {
       "confTeams" : [
