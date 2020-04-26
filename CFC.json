@@ -998,7 +998,7 @@
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
-            "age" : "42",
+            "age" : "43",
             "ratOff" : "68",
             "cumulativePrestige" : "0",
             "ratDef" : "75",
@@ -1022,7 +1022,7 @@
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
-            "age" : "40",
+            "age" : "41",
             "ratOff" : "70",
             "cumulativePrestige" : "0",
             "ratDef" : "60",
@@ -1070,7 +1070,7 @@
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
-            "age" : "55",
+            "age" : "56",
             "ratOff" : "70",
             "cumulativePrestige" : "2",
             "ratDef" : "67",
@@ -1094,7 +1094,7 @@
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
-            "age" : "48",
+            "age" : "49",
             "ratOff" : "75",
             "cumulativePrestige" : "3",
             "ratDef" : "68",
@@ -1166,7 +1166,7 @@
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
-            "age" : "40",
+            "age" : "41",
             "ratOff" : "75",
             "cumulativePrestige" : "0",
             "ratDef" : "68",
@@ -1190,7 +1190,7 @@
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
-            "age" : "59",
+            "age" : "60",
             "ratOff" : "66",
             "cumulativePrestige" : "30",
             "ratDef" : "73",
