@@ -1233,7 +1233,7 @@
       ],
       "confFullName" : "Pac 12",
       "confPrestige" : "84",
-      "confName" : "PAC"
+      "confName" : "P12"
     },
     {
       "confTeams" : [
@@ -1243,7 +1243,7 @@
           "hexColor" : "#E51937",
           "rival" : "USF",
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "41",
             "ratOff" : "71",
@@ -1258,8 +1258,8 @@
             "name" : "Josh Heupel",
             "contractYear" : "0"
           },
-          "name" : "Central Florida",
-          "state" : "Flordia"
+          "name" : "UCF",
+          "state" : "Florida"
         },
         {
           "abbreviation" : "USF",
@@ -1267,7 +1267,7 @@
           "hexColor" : "#201C1D",
           "rival" : "UCF",
           "headCoach" : {
-            "contractLength" : "3",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "38",
             "ratOff" : "74",
@@ -1291,7 +1291,7 @@
           "hexColor" : "#461D7C",
           "rival" : "MEM",
           "headCoach" : {
-            "contractLength" : "7",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "33",
             "ratOff" : "65",
@@ -1339,7 +1339,7 @@
           "hexColor" : "#2B3986",
           "rival" : "TEM",
           "headCoach" : {
-            "contractLength" : "5",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "34",
             "ratOff" : "63",
@@ -1363,7 +1363,7 @@
           "hexColor" : "#80FBFF",
           "rival" : "CONN",
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "37",
             "ratOff" : "64",
@@ -1387,7 +1387,7 @@
           "hexColor" : "#FFDE00",
           "rival" : "SMU",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "50",
             "ratOff" : "64",
@@ -1411,7 +1411,7 @@
           "hexColor" : "#A7AAAB",
           "rival" : "HOU",
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "35",
             "ratOff" : "62",
@@ -1426,16 +1426,16 @@
             "name" : "Curtis Herimann",
             "contractYear" : "0"
           },
-          "name" : "Southern Methodist",
+          "name" : "SMU",
           "state" : "Texas"
         },
         {
-          "abbreviation" : "TUL",
+          "abbreviation" : "TULN",
           "prestige" : "61",
           "hexColor" : "#f77f00",
-          "rival" : "TLS",
+          "rival" : "TLSA",
           "headCoach" : {
-            "contractLength" : "5",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "42",
             "ratOff" : "70",
@@ -1454,12 +1454,12 @@
           "state" : "Louisiana"
         },
         {
-          "abbreviation" : "TLS",
+          "abbreviation" : "TLSA",
           "prestige" : "60",
           "hexColor" : "#2E3192",
-          "rival" : "TUL",
+          "rival" : "TULN",
           "headCoach" : {
-            "contractLength" : "5",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "41",
             "ratOff" : "54",
