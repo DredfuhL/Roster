@@ -1478,7 +1478,7 @@
           "state" : "Oklahoma"
         }
       ],
-      "confFullName" : "American Athletic Conference",
+      "confFullName" : "American Athletic",
       "confPrestige" : "57",
       "confName" : "AAC"
     },
@@ -1490,7 +1490,7 @@
           "hexColor" : "#004B85",
           "rival" : "FRES",
           "headCoach" : {
-            "contractLength" : "5",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "42",
             "ratOff" : "72",
@@ -1514,7 +1514,7 @@
           "hexColor" : "#F1C409",
           "rival" : "BSU",
           "headCoach" : {
-            "contractLength" : "5",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "41",
             "ratOff" : "74",
@@ -1538,7 +1538,7 @@
           "hexColor" : "#1B49A2",
           "rival" : "USU",
           "headCoach" : {
-            "contractLength" : "3",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "36",
             "ratOff" : "63",
@@ -1553,7 +1553,7 @@
             "name" : "Roman Rhodes",
             "contractYear" : "0"
           },
-          "name" : "Brigham Young",
+          "name" : "BYU",
           "state" : "Utah"
         },
         {
@@ -1562,7 +1562,7 @@
           "hexColor" : "#00539C",
           "rival" : "BYU",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "46",
             "ratOff" : "70",
@@ -1586,7 +1586,7 @@
           "hexColor" : "#CEC499",
           "rival" : "CSU",
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "49",
             "ratOff" : "72",
@@ -1610,7 +1610,7 @@
           "hexColor" : "#B0C4DE",
           "rival" : "WYO",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "60",
             "ratOff" : "75",
@@ -1629,12 +1629,12 @@
           "state" : "Colorado"
         },
         {
-          "abbreviation" : "SD",
+          "abbreviation" : "SDSU",
           "prestige" : "48",
           "hexColor" : "#ca030a",
-          "rival" : "JOSE",
+          "rival" : "SJSU",
           "headCoach" : {
-            "contractLength" : "5",
+            "contractLength" : "4",
             "startYear" : "2021",
             "age" : "61",
             "ratOff" : "70",
@@ -1653,12 +1653,12 @@
           "state" : "California"
         },
         {
-          "abbreviation" : "JOSE",
+          "abbreviation" : "SJSU",
           "prestige" : "45",
           "hexColor" : "#ffc94b",
-          "rival" : "SD",
+          "rival" : "SDSU",
           "headCoach" : {
-            "contractLength" : "5",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "51",
             "ratOff" : "69",
@@ -1677,12 +1677,12 @@
           "state" : "California"
         },
         {
-          "abbreviation" : "HI",
+          "abbreviation" : "HAW",
           "prestige" : "52",
           "hexColor" : "#FCBB0D",
-          "rival" : "USAF",
+          "rival" : "AF",
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "55",
             "ratOff" : "68",
@@ -1701,10 +1701,10 @@
           "state" : "Hawaii"
         },
         {
-          "abbreviation" : "USAF",
+          "abbreviation" : "AF",
           "prestige" : "48",
           "hexColor" : "#005d28",
-          "rival" : "HI",
+          "rival" : "HAW",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2020",
@@ -1725,7 +1725,7 @@
           "state" : "Colorado"
         }
       ],
-      "confFullName" : "Mountain West Conference",
+      "confFullName" : "Mountain West",
       "confPrestige" : "42",
       "confName" : "MWC"
     },
@@ -1735,7 +1735,7 @@
           "abbreviation" : "APP",
           "prestige" : "58",
           "hexColor" : "#241F20",
-          "rival" : "GS",
+          "rival" : "GASO",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2020",
@@ -1756,12 +1756,12 @@
           "state" : "North Carolina"
         },
         {
-          "abbreviation" : "GS",
+          "abbreviation" : "GASO",
           "prestige" : "50",
           "hexColor" : "#D50026",
           "rival" : "APP",
           "headCoach" : {
-            "contractLength" : "5",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "46",
             "ratOff" : "76",
@@ -1785,7 +1785,7 @@
           "hexColor" : "#FFFDD0",
           "rival" : "USA",
           "headCoach" : {
-            "contractLength" : "5",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "42",
             "ratOff" : "72",
@@ -1809,7 +1809,7 @@
           "hexColor" : "#3F7D91",
           "rival" : "TROY",
           "headCoach" : {
-            "contractLength" : "5",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "53",
             "ratOff" : "73",
@@ -1828,7 +1828,7 @@
           "state" : "Alabama"
         },
         {
-          "abbreviation" : "AKSU",
+          "abbreviation" : "ARST",
           "prestige" : "48",
           "hexColor" : "#210203",
           "rival" : "ULL",
@@ -1855,9 +1855,9 @@
           "abbreviation" : "ULL",
           "prestige" : "46",
           "hexColor" : "#C99F05",
-          "rival" : "AKSU",
+          "rival" : "ARST",
           "headCoach" : {
-            "contractLength" : "5",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "54",
             "ratOff" : "58",
@@ -1881,7 +1881,7 @@
           "hexColor" : "#4C230E",
           "rival" : "GSU",
           "headCoach" : {
-            "contractLength" : "3",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "55",
             "ratOff" : "53",
@@ -1905,7 +1905,7 @@
           "hexColor" : "#FFCC00",
           "rival" : "CCU",
           "headCoach" : {
-            "contractLength" : "3",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "44",
             "ratOff" : "55",
@@ -1924,10 +1924,10 @@
           "state" : "Georgia"
         },
         {
-          "abbreviation" : "TSU",
+          "abbreviation" : "TXST",
           "prestige" : "45",
           "hexColor" : "#EE363D",
-          "rival" : "ARL",
+          "rival" : "UTA",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2020",
@@ -1948,10 +1948,10 @@
           "state" : "Texas"
         },
         {
-          "abbreviation" : "ARL",
+          "abbreviation" : "UTA",
           "prestige" : "46",
           "hexColor" : "#037961",
-          "rival" : "TSU",
+          "rival" : "TXST",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2020",
@@ -1974,7 +1974,7 @@
       ],
       "confFullName" : "Sun Belt",
       "confPrestige" : "39",
-      "confName" : "SUN"
+      "confName" : "SBC"
     },
     {
       "confTeams" : [
