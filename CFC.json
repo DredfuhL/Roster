@@ -84,7 +84,7 @@
             "startYear" : "2020",
             "age" : "45",
             "ratOff" : "66",
-            "cumulativePrestige" : "3",
+            "cumulativePrestige" : "5",
             "ratDef" : "79",
             "homeState" : "Alabama",
             "ratPot" : "83",
@@ -152,7 +152,7 @@
           "hexColor" : "#0067AC",
           "rival" : "LSU",
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "58",
             "ratOff" : "77",
@@ -224,7 +224,7 @@
           "hexColor" : "#FDD023",
           "rival" : "TENN",
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "50",
             "ratOff" : "68",
@@ -279,7 +279,7 @@
           "hexColor" : "#3A1769",
           "rival" : "UM",
           "headCoach" : {
-            "contractLength" : "4",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "48",
             "ratOff" : "68",
@@ -303,7 +303,7 @@
           "hexColor" : "#006B79",
           "rival" : "PSU",
           "headCoach" : {
-            "contractLength" : "4",
+            "contractLength" : "6",
             "startYear" : "2020",
             "age" : "40",
             "ratOff" : "85",
@@ -327,7 +327,7 @@
           "hexColor" : "#AC928A",
           "rival" : "OSU",
           "headCoach" : {
-            "contractLength" : "3",
+            "contractLength" : "6",
             "startYear" : "2020",
             "age" : "47",
             "ratOff" : "76",
@@ -351,7 +351,7 @@
           "hexColor" : "#FBC22D",
           "rival" : "WIS",
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "38",
             "ratOff" : "75",
@@ -375,7 +375,7 @@
           "hexColor" : "#9E0B0E",
           "rival" : "MINN",
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "53",
             "ratOff" : "73",
@@ -399,7 +399,7 @@
           "hexColor" : "#00488F",
           "rival" : "NEB",
           "headCoach" : {
-            "contractLength" : "7",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "55",
             "ratOff" : "73",
@@ -423,7 +423,7 @@
           "hexColor" : "#011522",
           "rival" : "IOWA",
           "headCoach" : {
-            "contractLength" : "7",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "44",
             "ratOff" : "80",
@@ -447,7 +447,7 @@
           "hexColor" : "#F5A329",
           "rival" : "NW",
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "48",
             "ratOff" : "76",
@@ -471,7 +471,7 @@
           "hexColor" : "#660033",
           "rival" : "PUR",
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "49",
             "ratOff" : "78",
@@ -502,7 +502,7 @@
           "hexColor" : "#FFFDD0",
           "rival" : "NCST",
           "headCoach" : {
-            "contractLength" : "7",
+            "contractLength" : "6",
             "startYear" : "2020",
             "age" : "49",
             "ratOff" : "87",
@@ -526,7 +526,7 @@
           "hexColor" : "#B4B6B8",
           "rival" : "SYR",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "53",
             "ratOff" : "78",
@@ -574,7 +574,7 @@
           "hexColor" : "#FFC10E",
           "rival" : "CLEM",
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "47",
             "ratOff" : "68",
@@ -622,7 +622,7 @@
           "hexColor" : "#D1D5D8",
           "rival" : "FSU",
           "headCoach" : {
-            "contractLength" : "5",
+            "contractLength" : "6",
             "startYear" : "2020",
             "age" : "45",
             "ratOff" : "70",
@@ -694,7 +694,7 @@
           "hexColor" : "#006AB5",
           "rival" : "PITT",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "58",
             "ratOff" : "79",
@@ -718,7 +718,7 @@
           "hexColor" : "#FFE600",
           "rival" : "VT",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "53",
             "ratOff" : "73",
@@ -737,7 +737,7 @@
           "state" : "Virginia"
         }
       ],
-      "confFullName" : "Atlantic Coastal Conference",
+      "confFullName" : "Atlantic Coastal",
       "confPrestige" : "83",
       "confName" : "ACC"
     },
@@ -749,7 +749,7 @@
           "hexColor" : "#003E24",
           "rival" : "OU",
           "headCoach" : {
-            "contractLength" : "3",
+            "contractLength" : "6",
             "startYear" : "2020",
             "age" : "44",
             "ratOff" : "78",
@@ -773,7 +773,7 @@
           "hexColor" : "#880023",
           "rival" : "TEX",
           "headCoach" : {
-            "contractLength" : "5",
+            "contractLength" : "6",
             "startYear" : "2020",
             "age" : "36",
             "ratOff" : "88",
@@ -797,7 +797,7 @@
           "hexColor" : "#005730",
           "rival" : "OKST",
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "39",
             "ratOff" : "77",
@@ -821,7 +821,7 @@
           "hexColor" : "#5F0000",
           "rival" : "BAY",
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "59",
             "ratOff" : "67",
@@ -836,7 +836,7 @@
             "name" : "Gary Patterson",
             "contractYear" : "0"
           },
-          "name" : "Texas Christian",
+          "name" : "TCU",
           "state" : "Texas"
         },
         {
@@ -845,7 +845,7 @@
           "hexColor" : "#CACC00",
           "rival" : "TCU",
           "headCoach" : {
-            "contractLength" : "4",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "46",
             "ratOff" : "70",
@@ -869,7 +869,7 @@
           "hexColor" : "#A8EDEF",
           "rival" : "TTU",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "39",
             "ratOff" : "76",
@@ -917,7 +917,7 @@
           "hexColor" : "#009297",
           "rival" : "WVU",
           "headCoach" : {
-            "contractLength" : "7",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "52",
             "ratOff" : "78",
@@ -965,7 +965,7 @@
           "hexColor" : "#4F2683",
           "rival" : "KSU",
           "headCoach" : {
-            "contractLength" : "7",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "55",
             "ratOff" : "82",
@@ -996,7 +996,7 @@
           "hexColor" : "#CCCCCD",
           "rival" : "STAN",
           "headCoach" : {
-            "contractLength" : "3",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "42",
             "ratOff" : "68",
@@ -1018,7 +1018,7 @@
           "abbreviation" : "WSU",
           "prestige" : "80",
           "hexColor" : "#FDC10D",
-          "rival" : "UW",
+          "rival" : "WASH",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
@@ -1044,7 +1044,7 @@
           "hexColor" : "#B0B1B6",
           "rival" : "UCLA",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "47",
             "ratOff" : "69",
@@ -1059,7 +1059,7 @@
             "name" : "Clay Helton",
             "contractYear" : "0"
           },
-          "name" : "Southern Cal",
+          "name" : "USC",
           "state" : "California"
         },
         {
@@ -1068,7 +1068,7 @@
           "hexColor" : "#0857B1",
           "rival" : "USC",
           "headCoach" : {
-            "contractLength" : "3",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "55",
             "ratOff" : "70",
@@ -1092,7 +1092,7 @@
           "hexColor" : "#EFEFEF",
           "rival" : "ORST",
           "headCoach" : {
-            "contractLength" : "4",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "48",
             "ratOff" : "75",
@@ -1111,12 +1111,12 @@
           "state" : "Oregon"
         },
         {
-          "abbreviation" : "UW",
+          "abbreviation" : "WASH",
           "prestige" : "83",
           "hexColor" : "#FFF500",
           "rival" : "WSU",
           "headCoach" : {
-            "contractLength" : "7",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "43",
             "ratOff" : "68",
@@ -1140,7 +1140,7 @@
           "hexColor" : "#c79900",
           "rival" : "CAL",
           "headCoach" : {
-            "contractLength" : "7",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "47",
             "ratOff" : "74",
@@ -1164,7 +1164,7 @@
           "hexColor" : "#00839a",
           "rival" : "ORE",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "40",
             "ratOff" : "75",
@@ -1188,7 +1188,7 @@
           "hexColor" : "#9e1b34",
           "rival" : "ASU",
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "59",
             "ratOff" : "66",
@@ -1212,7 +1212,7 @@
           "hexColor" : "#006B54",
           "rival" : "UTAH",
           "headCoach" : {
-            "contractLength" : "4",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "65",
             "ratOff" : "69",
