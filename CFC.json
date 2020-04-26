@@ -2482,12 +2482,12 @@
             "startYear" : "2020",
             "age" : "48",
             "ratOff" : "40",
-            "cumulativePrestige" : "4",
+            "cumulativePrestige" : "0",
             "ratDef" : "45",
             "homeState" : "Montana",
             "ratPot" : "73",
             "ratTalent" : "44",
-            "baselinePrestige" : "23",
+            "baselinePrestige" : "25",
             "ratDiscipline" : "78",
             "ratOvr" : "66",
             "name" : "Hootie Santiesteban",
@@ -2506,12 +2506,12 @@
             "startYear" : "2020",
             "age" : "51",
             "ratOff" : "49",
-            "cumulativePrestige" : "4",
+            "cumulativePrestige" : "0",
             "ratDef" : "47",
             "homeState" : "West Virginia",
             "ratPot" : "76",
             "ratTalent" : "46",
-            "baselinePrestige" : "24",
+            "baselinePrestige" : "25",
             "ratDiscipline" : "75",
             "ratOvr" : "56",
             "name" : "Doug Kubacki",
@@ -2526,16 +2526,16 @@
           "hexColor" : "#004C7D",
           "rival" : "WIU",
           "headCoach" : {
-            "contractLength" : "6",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "37",
             "ratOff" : "49",
-            "cumulativePrestige" : "4",
+            "cumulativePrestige" : "0",
             "ratDef" : "44",
             "homeState" : "Idaho",
             "ratPot" : "78",
             "ratTalent" : "46",
-            "baselinePrestige" : "20",
+            "baselinePrestige" : "25",
             "ratDiscipline" : "68",
             "ratOvr" : "56",
             "name" : "Elliott Sedlack",
@@ -2546,11 +2546,11 @@
         },
         {
           "abbreviation" : "INST",
-          "prestige" : "30",
+          "prestige" : "25",
           "hexColor" : "#B00C23",
           "rival" : "YSU",
           "headCoach" : {
-            "contractLength" : "3",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "36",
             "ratOff" : "47",
@@ -2583,7 +2583,7 @@
             "homeState" : "Oregon",
             "ratPot" : "85",
             "ratTalent" : "76",
-            "baselinePrestige" : "26",
+            "baselinePrestige" : "25",
             "ratDiscipline" : "72",
             "ratOvr" : "55",
             "name" : "Lance Eclarinal",
@@ -2596,7 +2596,7 @@
           "abbreviation" : "ILST",
           "prestige" : "25",
           "hexColor" : "#690B0B",
-          "rival" : "USD",
+          "rival" : "SDAK",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2020",
@@ -2607,7 +2607,7 @@
             "homeState" : "Texas",
             "ratPot" : "72",
             "ratTalent" : "41",
-            "baselinePrestige" : "20",
+            "baselinePrestige" : "25",
             "ratDiscipline" : "75",
             "ratOvr" : "75",
             "name" : "Roy Hedden",
@@ -2618,11 +2618,11 @@
         },
         {
           "abbreviation" : "YSU",
-          "prestige" : "28",
+          "prestige" : "25",
           "hexColor" : "#F2B43B",
           "rival" : "INST",
           "headCoach" : {
-            "contractLength" : "3",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "51",
             "ratOff" : "56",
@@ -2631,7 +2631,7 @@
             "homeState" : "Oklahoma",
             "ratPot" : "63",
             "ratTalent" : "63",
-            "baselinePrestige" : "23",
+            "baselinePrestige" : "25",
             "ratDiscipline" : "69",
             "ratOvr" : "64",
             "name" : "Bo Pelini",
@@ -2641,12 +2641,12 @@
           "state" : "Virginia"
         },
         {
-          "abbreviation" : "USD",
+          "abbreviation" : "SDAK",
           "prestige" : "25",
           "hexColor" : "#18581C",
           "rival" : "ILST",
           "headCoach" : {
-            "contractLength" : "5",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "32",
             "ratOff" : "45",
@@ -2655,22 +2655,22 @@
             "homeState" : "Alaska",
             "ratPot" : "76",
             "ratTalent" : "45",
-            "baselinePrestige" : "20",
+            "baselinePrestige" : "25",
             "ratDiscipline" : "80",
             "ratOvr" : "63",
             "name" : "Vinnie Difebbo",
             "contractYear" : "0"
           },
-          "name" : "Univ South Dakota",
+          "name" : "South Dakota",
           "state" : "South Dakota"
         },
         {
           "abbreviation" : "MOST",
           "prestige" : "25",
           "hexColor" : "#F5A329",
-          "rival" : "SIL",
+          "rival" : "SIU",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "40",
             "ratOff" : "49",
@@ -2679,7 +2679,7 @@
             "homeState" : "Maine",
             "ratPot" : "72",
             "ratTalent" : "43",
-            "baselinePrestige" : "20",
+            "baselinePrestige" : "25",
             "ratDiscipline" : "74",
             "ratOvr" : "64",
             "name" : "Curtis Caliguire",
@@ -2689,12 +2689,12 @@
           "state" : "Missouri"
         },
         {
-          "abbreviation" : "SIL",
+          "abbreviation" : "SIU",
           "prestige" : "25",
           "hexColor" : "#00244D",
           "rival" : "MOST",
           "headCoach" : {
-            "contractLength" : "3",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "48",
             "ratOff" : "48",
@@ -2703,7 +2703,7 @@
             "homeState" : "Wyoming",
             "ratPot" : "78",
             "ratTalent" : "51",
-            "baselinePrestige" : "20",
+            "baselinePrestige" : "25",
             "ratDiscipline" : "68",
             "ratOvr" : "67",
             "name" : "Mario Torsiello",
@@ -2713,9 +2713,9 @@
           "state" : "Illinois"
         }
       ],
-      "confFullName" : "Missouri Valley Conference",
+      "confFullName" : "Missouri Valley",
       "confPrestige" : "27",
-      "confName" : "MVC"
+      "confName" : "MVFC"
     },
     {
       "confTeams" : [
@@ -2921,7 +2921,7 @@
             "startYear" : "2020",
             "age" : "63",
             "ratOff" : "57",
-            "cumulativePrestige" : "5",
+            "cumulativePrestige" : "4",
             "ratDef" : "47",
             "homeState" : "New York",
             "ratPot" : "54",
@@ -2952,7 +2952,7 @@
             "ratTalent" : "50",
             "baselinePrestige" : "25",
             "ratDiscipline" : "68",
-            "ratOvr" : "53",
+            "ratOvr" : "52",
             "name" : "Mark Ferrante",
             "contractYear" : "0"
           },
@@ -2960,7 +2960,7 @@
           "state" : "Pennsylvania"
         }
       ],
-      "confFullName" : "Colonial Athletic Association",
+      "confFullName" : "Colonial Athletic",
       "confPrestige" : "25",
       "confName" : "CAA"
     }
