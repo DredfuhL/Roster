@@ -250,7 +250,7 @@
     {
       "confTeams" : [
         {
-          "abbreviation" : "UM",
+          "abbreviation" : "MICH",
           "prestige" : "80",
           "hexColor" : "#30C808",
           "rival" : "MSU",
@@ -498,7 +498,7 @@
       "confTeams" : [
         {
           "abbreviation" : "CLEM",
-          "prestige" : "95",
+          "prestige" : "94",
           "hexColor" : "#FFFDD0",
           "rival" : "NCST",
           "headCoach" : {
@@ -506,7 +506,7 @@
             "startYear" : "2020",
             "age" : "49",
             "ratOff" : "87",
-            "cumulativePrestige" : "1000",
+            "cumulativePrestige" : "100",
             "ratDef" : "88",
             "homeState" : "Alabama",
             "ratPot" : "90",
@@ -524,7 +524,7 @@
           "abbreviation" : "PITT",
           "prestige" : "78",
           "hexColor" : "#B4B6B8",
-          "rival" : "CUSE",
+          "rival" : "SYR",
           "headCoach" : {
             "contractLength" : "2",
             "startYear" : "2020",
@@ -689,7 +689,7 @@
           "state" : "Massachusetts"
         },
         {
-          "abbreviation" : "CUSE",
+          "abbreviation" : "SYR",
           "prestige" : "78",
           "hexColor" : "#006AB5",
           "rival" : "PITT",
@@ -744,7 +744,7 @@
     {
       "confTeams" : [
         {
-          "abbreviation" : "UT",
+          "abbreviation" : "TEX",
           "prestige" : "77",
           "hexColor" : "#003E24",
           "rival" : "OU",
@@ -771,7 +771,7 @@
           "abbreviation" : "OU",
           "prestige" : "88",
           "hexColor" : "#880023",
-          "rival" : "UT",
+          "rival" : "TEX",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
@@ -819,7 +819,7 @@
           "abbreviation" : "TCU",
           "prestige" : "79",
           "hexColor" : "#5F0000",
-          "rival" : "BAYL",
+          "rival" : "BAY",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -840,7 +840,7 @@
           "state" : "Texas"
         },
         {
-          "abbreviation" : "BAYL",
+          "abbreviation" : "BAY",
           "prestige" : "77",
           "hexColor" : "#CACC00",
           "rival" : "TCU",
@@ -867,7 +867,7 @@
           "abbreviation" : "ISU",
           "prestige" : "77",
           "hexColor" : "#A8EDEF",
-          "rival" : "TTEC",
+          "rival" : "TTU",
           "headCoach" : {
             "contractLength" : "2",
             "startYear" : "2020",
@@ -888,7 +888,7 @@
           "state" : "Iowa"
         },
         {
-          "abbreviation" : "TTEC",
+          "abbreviation" : "TTU",
           "prestige" : "71",
           "hexColor" : "#8C0029",
           "rival" : "ISU",
@@ -912,7 +912,7 @@
           "state" : "Texas"
         },
         {
-          "abbreviation" : "OKSU",
+          "abbreviation" : "OKST",
           "prestige" : "74",
           "hexColor" : "#009297",
           "rival" : "WVU",
@@ -939,7 +939,7 @@
           "abbreviation" : "KSU",
           "prestige" : "66",
           "hexColor" : "#4F2683",
-          "rival" : "KS",
+          "rival" : "KU",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
@@ -960,7 +960,7 @@
           "state" : "Kansas"
         },
         {
-          "abbreviation" : "KS",
+          "abbreviation" : "KU",
           "prestige" : "59",
           "hexColor" : "#4F2683",
           "rival" : "KSU",
@@ -986,7 +986,7 @@
       ],
       "confFullName" : "Big 12",
       "confPrestige" : "88",
-      "confName" : "XII"
+      "confName" : "B12"
     },
     {
       "confTeams" : [
