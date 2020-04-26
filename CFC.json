@@ -779,7 +779,7 @@
             "ratOff" : "88",
             "cumulativePrestige" : "17",
             "ratDef" : "66",
-            "homeState" : "Arizona",
+            "homeState" : "Texas",
             "ratPot" : "88",
             "ratTalent" : "81",
             "baselinePrestige" : "75",
@@ -799,7 +799,7 @@
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
-            "age" : "39",
+            "age" : "40",
             "ratOff" : "77",
             "cumulativePrestige" : "0",
             "ratDef" : "71",
@@ -823,7 +823,7 @@
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
-            "age" : "59",
+            "age" : "60",
             "ratOff" : "67",
             "cumulativePrestige" : "40",
             "ratDef" : "90",
@@ -847,11 +847,11 @@
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
-            "age" : "46",
+            "age" : "43",
             "ratOff" : "70",
             "cumulativePrestige" : "0",
             "ratDef" : "80",
-            "homeState" : "New York",
+            "homeState" : "California",
             "ratPot" : "90",
             "ratTalent" : "79",
             "baselinePrestige" : "75",
@@ -871,7 +871,7 @@
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
-            "age" : "39",
+            "age" : "40",
             "ratOff" : "76",
             "cumulativePrestige" : "10",
             "ratDef" : "70",
@@ -943,7 +943,7 @@
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
-            "age" : "51",
+            "age" : "52",
             "ratOff" : "79",
             "cumulativePrestige" : "0",
             "ratDef" : "62",
@@ -967,7 +967,7 @@
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
-            "age" : "55",
+            "age" : "66",
             "ratOff" : "82",
             "cumulativePrestige" : "15",
             "ratDef" : "79",
