@@ -758,9 +758,9 @@
             "homeState" : "Ohio",
             "ratPot" : "75",
             "ratTalent" : "80",
-            "baselinePrestige" : "70",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "66",
-            "ratOvr" : "74",
+            "ratOvr" : "75",
             "name" : "Tom Herman",
             "contractYear" : "0"
           },
@@ -769,7 +769,7 @@
         },
         {
           "abbreviation" : "OU",
-          "prestige" : "88",
+          "prestige" : "87",
           "hexColor" : "#880023",
           "rival" : "TEX",
           "headCoach" : {
@@ -784,7 +784,7 @@
             "ratTalent" : "81",
             "baselinePrestige" : "75",
             "ratDiscipline" : "68",
-            "ratOvr" : "75",
+            "ratOvr" : "83",
             "name" : "Lincoln Riley",
             "contractYear" : "0"
           },
@@ -793,7 +793,7 @@
         },
         {
           "abbreviation" : "WVU",
-          "prestige" : "78",
+          "prestige" : "72",
           "hexColor" : "#005730",
           "rival" : "OKST",
           "headCoach" : {
@@ -806,9 +806,9 @@
             "homeState" : "Kentucky",
             "ratPot" : "84",
             "ratTalent" : "79",
-            "baselinePrestige" : "74",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "73",
-            "ratOvr" : "75",
+            "ratOvr" : "71",
             "name" : "Neal Brown",
             "contractYear" : "0"
           },
@@ -817,7 +817,7 @@
         },
         {
           "abbreviation" : "TCU",
-          "prestige" : "79",
+          "prestige" : "72",
           "hexColor" : "#5F0000",
           "rival" : "BAY",
           "headCoach" : {
@@ -832,7 +832,7 @@
             "ratTalent" : "70",
             "baselinePrestige" : "75",
             "ratDiscipline" : "92",
-            "ratOvr" : "80",
+            "ratOvr" : "72",
             "name" : "Gary Patterson",
             "contractYear" : "0"
           },
@@ -841,7 +841,7 @@
         },
         {
           "abbreviation" : "BAY",
-          "prestige" : "77",
+          "prestige" : "82",
           "hexColor" : "#CACC00",
           "rival" : "TCU",
           "headCoach" : {
@@ -856,7 +856,7 @@
             "ratTalent" : "79",
             "baselinePrestige" : "75",
             "ratDiscipline" : "75",
-            "ratOvr" : "75",
+            "ratOvr" : "77",
             "name" : "Dave Aranda",
             "contractYear" : "0"
           },
@@ -865,7 +865,7 @@
         },
         {
           "abbreviation" : "ISU",
-          "prestige" : "77",
+          "prestige" : "74",
           "hexColor" : "#A8EDEF",
           "rival" : "TTU",
           "headCoach" : {
@@ -878,7 +878,7 @@
             "homeState" : "Ohio",
             "ratPot" : "76",
             "ratTalent" : "70",
-            "baselinePrestige" : "73",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "65",
             "ratOvr" : "70",
             "name" : "Matt Campbell",
@@ -889,7 +889,7 @@
         },
         {
           "abbreviation" : "TTU",
-          "prestige" : "71",
+          "prestige" : "67",
           "hexColor" : "#8C0029",
           "rival" : "ISU",
           "headCoach" : {
@@ -902,7 +902,7 @@
             "homeState" : "South Carolina",
             "ratPot" : "68",
             "ratTalent" : "62",
-            "baselinePrestige" : "70",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "70",
             "ratOvr" : "68",
             "name" : "Matt Wells",
@@ -926,7 +926,7 @@
             "homeState" : "Oklahoma",
             "ratPot" : "66",
             "ratTalent" : "65",
-            "baselinePrestige" : "65",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "90",
             "ratOvr" : "76",
             "name" : "Mike Gundy",
@@ -937,7 +937,7 @@
         },
         {
           "abbreviation" : "KSU",
-          "prestige" : "66",
+          "prestige" : "74",
           "hexColor" : "#4F2683",
           "rival" : "KU",
           "headCoach" : {
@@ -950,7 +950,7 @@
             "homeState" : "Iowa",
             "ratPot" : "74",
             "ratTalent" : "71",
-            "baselinePrestige" : "63",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "77",
             "ratOvr" : "72",
             "name" : "Chris Klieman",
@@ -961,7 +961,7 @@
         },
         {
           "abbreviation" : "KU",
-          "prestige" : "59",
+          "prestige" : "55",
           "hexColor" : "#4F2683",
           "rival" : "KSU",
           "headCoach" : {
@@ -974,9 +974,9 @@
             "homeState" : "Ohio",
             "ratPot" : "69",
             "ratTalent" : "71",
-            "baselinePrestige" : "54",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "70",
-            "ratOvr" : "76",
+            "ratOvr" : "78",
             "name" : "Les Miles",
             "contractYear" : "0"
           },
@@ -985,7 +985,7 @@
         }
       ],
       "confFullName" : "Big 12",
-      "confPrestige" : "88",
+      "confPrestige" : "85",
       "confName" : "B12"
     },
     {
