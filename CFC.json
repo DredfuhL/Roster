@@ -43,7 +43,7 @@
             "ratTalent" : "87",
             "baselinePrestige" : "75",
             "ratDiscipline" : "85",
-            "ratOvr" : "85",
+            "ratOvr" : "84",
             "name" : "Kirby Smart",
             "contractYear" : "0"
           },
@@ -108,14 +108,14 @@
             "startYear" : "2020",
             "age" : "58",
             "ratOff" : "78",
-            "cumulativePrestige" : "25",
+            "cumulativePrestige" : "30",
             "ratDef" : "88",
             "homeState" : "Louisiana",
             "ratPot" : "75",
             "ratTalent" : "75",
             "baselinePrestige" : "75",
             "ratDiscipline" : "70",
-            "ratOvr" : "88",
+            "ratOvr" : "89",
             "name" : "Ed Orgeron",
             "contractYear" : "0"
           },
@@ -172,7 +172,7 @@
         },
         {
           "abbreviation" : "MSST",
-          "prestige" : "74",
+          "prestige" : "70",
           "hexColor" : "#D1B07F",
           "rival" : "MISS",
           "headCoach" : {
@@ -196,7 +196,7 @@
         },
         {
           "abbreviation" : "AUB",
-          "prestige" : "84",
+          "prestige" : "85",
           "hexColor" : "#C41130",
           "rival" : "BAMA",
           "headCoach" : {
@@ -211,7 +211,7 @@
             "ratTalent" : "70",
             "baselinePrestige" : "75",
             "ratDiscipline" : "77",
-            "ratOvr" : "80",
+            "ratOvr" : "81",
             "name" : "Gus Malzahn",
             "contractYear" : "0"
           },
@@ -235,7 +235,7 @@
             "ratTalent" : "75",
             "baselinePrestige" : "75",
             "ratDiscipline" : "68",
-            "ratOvr" : "70",
+            "ratOvr" : "68",
             "name" : "Derek Mason",
             "contractYear" : "0"
           },
