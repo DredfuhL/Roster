@@ -642,7 +642,7 @@
         },
         {
           "abbreviation" : "ND",
-          "prestige" : "87",
+          "prestige" : "86",
           "hexColor" : "#653600",
           "rival" : "BC",
           "headCoach" : {
@@ -1486,7 +1486,7 @@
       "confTeams" : [
         {
           "abbreviation" : "BSU",
-          "prestige" : "58",
+          "prestige" : "70",
           "hexColor" : "#004B85",
           "rival" : "FRES",
           "headCoach" : {
@@ -1499,7 +1499,7 @@
             "homeState" : "Idaho",
             "ratPot" : "73",
             "ratTalent" : "65",
-            "baselinePrestige" : "53",
+            "baselinePrestige" : "65",
             "ratDiscipline" : "69",
             "ratOvr" : "72",
             "name" : "Bryan Harsin",
@@ -1510,7 +1510,7 @@
         },
         {
           "abbreviation" : "FRES",
-          "prestige" : "54",
+          "prestige" : "55",
           "hexColor" : "#F1C409",
           "rival" : "BSU",
           "headCoach" : {
@@ -1523,9 +1523,9 @@
             "homeState" : "South Dakota",
             "ratPot" : "73",
             "ratTalent" : "67",
-            "baselinePrestige" : "49",
+            "baselinePrestige" : "65",
             "ratDiscipline" : "70",
-            "ratOvr" : "67",
+            "ratOvr" : "65",
             "name" : "Kalen DeBoer",
             "contractYear" : "0"
           },
@@ -1558,7 +1558,7 @@
         },
         {
           "abbreviation" : "USU",
-          "prestige" : "50",
+          "prestige" : "60",
           "hexColor" : "#00539C",
           "rival" : "BYU",
           "headCoach" : {
@@ -1571,9 +1571,9 @@
             "homeState" : "Utah",
             "ratPot" : "70",
             "ratTalent" : "59",
-            "baselinePrestige" : "45",
+            "baselinePrestige" : "55",
             "ratDiscipline" : "71",
-            "ratOvr" : "68",
+            "ratOvr" : "65",
             "name" : "Gary Andersen",
             "contractYear" : "0"
           },
@@ -1582,7 +1582,7 @@
         },
         {
           "abbreviation" : "WYO",
-          "prestige" : "50",
+          "prestige" : "61",
           "hexColor" : "#CEC499",
           "rival" : "CSU",
           "headCoach" : {
@@ -1595,9 +1595,9 @@
             "homeState" : "Nebraska",
             "ratPot" : "98",
             "ratTalent" : "61",
-            "baselinePrestige" : "45",
+            "baselinePrestige" : "55",
             "ratDiscipline" : "77",
-            "ratOvr" : "59",
+            "ratOvr" : "64",
             "name" : "Craig Bohl",
             "contractYear" : "0"
           },
@@ -1606,7 +1606,7 @@
         },
         {
           "abbreviation" : "CSU",
-          "prestige" : "48",
+          "prestige" : "50",
           "hexColor" : "#B0C4DE",
           "rival" : "WYO",
           "headCoach" : {
@@ -1619,9 +1619,9 @@
             "homeState" : "Connecticut",
             "ratPot" : "73",
             "ratTalent" : "80",
-            "baselinePrestige" : "43",
+            "baselinePrestige" : "50",
             "ratDiscipline" : "72",
-            "ratOvr" : "72",
+            "ratOvr" : "62",
             "name" : "Steve Addazio",
             "contractYear" : "0"
           },
@@ -1630,7 +1630,7 @@
         },
         {
           "abbreviation" : "SDSU",
-          "prestige" : "48",
+          "prestige" : "63",
           "hexColor" : "#ca030a",
           "rival" : "SJSU",
           "headCoach" : {
@@ -1643,9 +1643,9 @@
             "homeState" : "Ohio",
             "ratPot" : "70",
             "ratTalent" : "64",
-            "baselinePrestige" : "45",
+            "baselinePrestige" : "65",
             "ratDiscipline" : "77",
-            "ratOvr" : "62",
+            "ratOvr" : "68",
             "name" : "Brady Hoke",
             "contractYear" : "0"
           },
@@ -1654,7 +1654,7 @@
         },
         {
           "abbreviation" : "SJSU",
-          "prestige" : "45",
+          "prestige" : "49",
           "hexColor" : "#ffc94b",
           "rival" : "SDSU",
           "headCoach" : {
@@ -1667,7 +1667,7 @@
             "homeState" : "California",
             "ratPot" : "70",
             "ratTalent" : "48",
-            "baselinePrestige" : "40",
+            "baselinePrestige" : "50",
             "ratDiscipline" : "78",
             "ratOvr" : "58",
             "name" : "Brent Brennan",
@@ -1678,7 +1678,7 @@
         },
         {
           "abbreviation" : "HAW",
-          "prestige" : "52",
+          "prestige" : "60",
           "hexColor" : "#FCBB0D",
           "rival" : "AF",
           "headCoach" : {
@@ -1691,9 +1691,9 @@
             "homeState" : "Texas",
             "ratPot" : "70",
             "ratTalent" : "48",
-            "baselinePrestige" : "40",
+            "baselinePrestige" : "55",
             "ratDiscipline" : "78",
-            "ratOvr" : "58",
+            "ratOvr" : "60",
             "name" : "Todd Graham",
             "contractYear" : "0"
           },
@@ -1702,7 +1702,7 @@
         },
         {
           "abbreviation" : "AF",
-          "prestige" : "48",
+          "prestige" : "66",
           "hexColor" : "#005d28",
           "rival" : "HAW",
           "headCoach" : {
@@ -1715,9 +1715,9 @@
             "homeState" : "Oregon",
             "ratPot" : "61",
             "ratTalent" : "56",
-            "baselinePrestige" : "43",
+            "baselinePrestige" : "65",
             "ratDiscipline" : "78",
-            "ratOvr" : "60",
+            "ratOvr" : "66",
             "name" : "Troy Calhoun",
             "contractYear" : "0"
           },
@@ -1726,14 +1726,14 @@
         }
       ],
       "confFullName" : "Mountain West Conference",
-      "confPrestige" : "42",
+      "confPrestige" : "56",
       "confName" : "MWC"
     },
     {
       "confTeams" : [
         {
           "abbreviation" : "APP",
-          "prestige" : "58",
+          "prestige" : "63",
           "hexColor" : "#241F20",
           "rival" : "CCU",
           "headCoach" : {
@@ -1746,9 +1746,9 @@
             "homeState" : "North Carolina",
             "ratPot" : "75",
             "ratTalent" : "71",
-            "baselinePrestige" : "53",
+            "baselinePrestige" : "65",
             "ratDiscipline" : "79",
-            "ratOvr" : "63",
+            "ratOvr" : "67",
             "name" : "Shawn Clark",
             "contractYear" : "0"
           },
@@ -1757,7 +1757,7 @@
         },
         {
           "abbreviation" : "GASO",
-          "prestige" : "50",
+          "prestige" : "54",
           "hexColor" : "#D50026",
           "rival" : "GSU",
           "headCoach" : {
@@ -1770,9 +1770,9 @@
             "homeState" : "Georgia",
             "ratPot" : "52",
             "ratTalent" : "47",
-            "baselinePrestige" : "45",
+            "baselinePrestige" : "50",
             "ratDiscipline" : "76",
-            "ratOvr" : "66",
+            "ratOvr" : "63",
             "name" : "Chad Lunsford",
             "contractYear" : "0"
           },
@@ -1781,7 +1781,7 @@
         },
         {
           "abbreviation" : "TROY",
-          "prestige" : "54",
+          "prestige" : "50",
           "hexColor" : "#FFFDD0",
           "rival" : "USA",
           "headCoach" : {
@@ -1794,9 +1794,9 @@
             "homeState" : "Alabama",
             "ratPot" : "58",
             "ratTalent" : "60",
-            "baselinePrestige" : "49",
+            "baselinePrestige" : "50",
             "ratDiscipline" : "73",
-            "ratOvr" : "80",
+            "ratOvr" : "59",
             "name" : "Chip Lindsey",
             "contractYear" : "0"
           },
@@ -1805,7 +1805,7 @@
         },
         {
           "abbreviation" : "USA",
-          "prestige" : "47",
+          "prestige" : "44",
           "hexColor" : "#3F7D91",
           "rival" : "TROY",
           "headCoach" : {
@@ -1818,9 +1818,9 @@
             "homeState" : "Florida",
             "ratPot" : "63",
             "ratTalent" : "62",
-            "baselinePrestige" : "42",
+            "baselinePrestige" : "40",
             "ratDiscipline" : "79",
-            "ratOvr" : "62",
+            "ratOvr" : "58",
             "name" : "Steve Campbell",
             "contractYear" : "0"
           },
@@ -1829,11 +1829,11 @@
         },
         {
           "abbreviation" : "ARST",
-          "prestige" : "48",
+          "prestige" : "54",
           "hexColor" : "#210203",
           "rival" : "TXST",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "4",
             "startYear" : "2020",
             "age" : "51",
             "ratOff" : "80",
@@ -1844,7 +1844,7 @@
             "ratTalent" : "75",
             "baselinePrestige" : "43",
             "ratDiscipline" : "75",
-            "ratOvr" : "75",
+            "ratOvr" : "59",
             "name" : "Blake Anderson",
             "contractYear" : "0"
           },
@@ -1853,7 +1853,7 @@
         },
         {
           "abbreviation" : "ULL",
-          "prestige" : "46",
+          "prestige" : "57",
           "hexColor" : "#C99F05",
           "rival" : "ULM",
           "headCoach" : {
@@ -1866,9 +1866,9 @@
             "homeState" : "Tennessee",
             "ratPot" : "60",
             "ratTalent" : "56",
-            "baselinePrestige" : "41",
+            "baselinePrestige" : "50",
             "ratDiscipline" : "75",
-            "ratOvr" : "69",
+            "ratOvr" : "64",
             "name" : "Billy Napier",
             "contractYear" : "0"
           },
@@ -1877,7 +1877,7 @@
         },
         {
           "abbreviation" : "CCU",
-          "prestige" : "45",
+          "prestige" : "48",
           "hexColor" : "#4C230E",
           "rival" : "APP",
           "headCoach" : {
@@ -1892,7 +1892,7 @@
             "ratTalent" : "53",
             "baselinePrestige" : "40",
             "ratDiscipline" : "82",
-            "ratOvr" : "71",
+            "ratOvr" : "59",
             "name" : "Jamey Chadwell",
             "contractYear" : "0"
           },
@@ -1901,7 +1901,7 @@
         },
         {
           "abbreviation" : "GSU",
-          "prestige" : "45",
+          "prestige" : "54",
           "hexColor" : "#FFCC00",
           "rival" : "GASO",
           "headCoach" : {
@@ -1916,7 +1916,7 @@
             "ratTalent" : "56",
             "baselinePrestige" : "40",
             "ratDiscipline" : "73",
-            "ratOvr" : "73",
+            "ratOvr" : "60",
             "name" : "Shawn Elliott",
             "contractYear" : "0"
           },
@@ -1925,7 +1925,7 @@
         },
         {
           "abbreviation" : "TXST",
-          "prestige" : "45",
+          "prestige" : "41",
           "hexColor" : "#EE363D",
           "rival" : "ARST",
           "headCoach" : {
@@ -1940,7 +1940,7 @@
             "ratTalent" : "59",
             "baselinePrestige" : "40",
             "ratDiscipline" : "73",
-            "ratOvr" : "71",
+            "ratOvr" : "55",
             "name" : "Jake Spavital",
             "contractYear" : "0"
           },
@@ -1949,7 +1949,7 @@
         },
         {
           "abbreviation" : "ULM",
-          "prestige" : "46",
+          "prestige" : "52",
           "hexColor" : "#037961",
           "rival" : "ULL",
           "headCoach" : {
@@ -1962,9 +1962,9 @@
             "homeState" : "Louisiana",
             "ratPot" : "51",
             "ratTalent" : "57",
-            "baselinePrestige" : "41",
+            "baselinePrestige" : "45",
             "ratDiscipline" : "76",
-            "ratOvr" : "64",
+            "ratOvr" : "60",
             "name" : "Matt Viator",
             "contractYear" : "0"
           },
@@ -1973,7 +1973,7 @@
         }
       ],
       "confFullName" : "Sun Belt Conference",
-      "confPrestige" : "39",
+      "confPrestige" : "42",
       "confName" : "SBC"
     },
     {
