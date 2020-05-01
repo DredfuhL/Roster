@@ -100,7 +100,7 @@
         },
         {
           "abbreviation" : "LSU",
-          "prestige" : "90",
+          "prestige" : "91",
           "hexColor" : "#D72E34",
           "rival" : "ARK",
           "headCoach" : {
@@ -244,14 +244,14 @@
         }
       ],
       "confFullName" : "Southeastern Conference",
-      "confPrestige" : "90",
+      "confPrestige" : "91",
       "confName" : "SEC"
     },
     {
       "confTeams" : [
         {
           "abbreviation" : "MICH",
-          "prestige" : "80",
+          "prestige" : "82",
           "hexColor" : "#30C808",
           "rival" : "MSU",
           "headCoach" : {
@@ -259,14 +259,14 @@
             "startYear" : "2020",
             "age" : "56",
             "ratOff" : "73",
-            "cumulativePrestige" : "2",
+            "cumulativePrestige" : "3",
             "ratDef" : "72",
             "homeState" : "Ohio",
             "ratPot" : "70",
             "ratTalent" : "80",
-            "baselinePrestige" : "79",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "78",
-            "ratOvr" : "76",
+            "ratOvr" : "85",
             "name" : "Jim Harbaugh",
             "contractYear" : "0"
           },
@@ -288,9 +288,9 @@
             "homeState" : "Ohio",
             "ratPot" : "80",
             "ratTalent" : "62",
-            "baselinePrestige" : "80",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "76",
-            "ratOvr" : "76",
+            "ratOvr" : "73",
             "name" : "Mel Tucker",
             "contractYear" : "0"
           },
@@ -299,7 +299,7 @@
         },
         {
           "abbreviation" : "OSU",
-          "prestige" : "86",
+          "prestige" : "89",
           "hexColor" : "#006B79",
           "rival" : "PSU",
           "headCoach" : {
@@ -312,9 +312,9 @@
             "homeState" : "New Hampshire",
             "ratPot" : "90",
             "ratTalent" : "81",
-            "baselinePrestige" : "83",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "64",
-            "ratOvr" : "82",
+            "ratOvr" : "81",
             "name" : "Ryan Day",
             "contractYear" : "0"
           },
@@ -338,7 +338,7 @@
             "ratTalent" : "79",
             "baselinePrestige" : "75",
             "ratDiscipline" : "77",
-            "ratOvr" : "76",
+            "ratOvr" : "81",
             "name" : "James Franklin",
             "contractYear" : "0"
           },
@@ -347,7 +347,7 @@
         },
         {
           "abbreviation" : "MINN",
-          "prestige" : "78",
+          "prestige" : "74",
           "hexColor" : "#FBC22D",
           "rival" : "WIS",
           "headCoach" : {
@@ -360,9 +360,9 @@
             "homeState" : "Illinois",
             "ratPot" : "89",
             "ratTalent" : "66",
-            "baselinePrestige" : "68",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "75",
-            "ratOvr" : "69",
+            "ratOvr" : "74",
             "name" : "PJ Fleck",
             "contractYear" : "0"
           },
@@ -371,7 +371,7 @@
         },
         {
           "abbreviation" : "WIS",
-          "prestige" : "77",
+          "prestige" : "81",
           "hexColor" : "#9E0B0E",
           "rival" : "MINN",
           "headCoach" : {
@@ -384,9 +384,9 @@
             "homeState" : "Wisconsin",
             "ratPot" : "68",
             "ratTalent" : "78",
-            "baselinePrestige" : "70",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "72",
-            "ratOvr" : "73",
+            "ratOvr" : "79",
             "name" : "Paul Chryst",
             "contractYear" : "0"
           },
@@ -395,7 +395,7 @@
         },
         {
           "abbreviation" : "IOWA",
-          "prestige" : "81",
+          "prestige" : "76",
           "hexColor" : "#00488F",
           "rival" : "NEB",
           "headCoach" : {
@@ -408,7 +408,7 @@
             "homeState" : "Michigan",
             "ratPot" : "63",
             "ratTalent" : "77",
-            "baselinePrestige" : "70",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "86",
             "ratOvr" : "75",
             "name" : "Kirk Ferentz",
@@ -419,7 +419,7 @@
         },
         {
           "abbreviation" : "NEB",
-          "prestige" : "68",
+          "prestige" : "69",
           "hexColor" : "#011522",
           "rival" : "IOWA",
           "headCoach" : {
@@ -432,9 +432,9 @@
             "homeState" : "Nebraska",
             "ratPot" : "77",
             "ratTalent" : "68",
-            "baselinePrestige" : "64",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "75",
-            "ratOvr" : "75",
+            "ratOvr" : "73",
             "name" : "Scott Frost",
             "contractYear" : "0"
           },
@@ -443,7 +443,7 @@
         },
         {
           "abbreviation" : "PUR",
-          "prestige" : "69",
+          "prestige" : "66",
           "hexColor" : "#F5A329",
           "rival" : "NW",
           "headCoach" : {
@@ -456,9 +456,9 @@
             "homeState" : "Kentucky",
             "ratPot" : "70",
             "ratTalent" : "68",
-            "baselinePrestige" : "65",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "79",
-            "ratOvr" : "74",
+            "ratOvr" : "71",
             "name" : "Jeff Brohm",
             "contractYear" : "0"
           },
@@ -467,22 +467,22 @@
         },
         {
           "abbreviation" : "NW",
-          "prestige" : "81",
+          "prestige" : "60",
           "hexColor" : "#660033",
           "rival" : "PUR",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
             "age" : "45",
-            "ratOff" : "78",
-            "cumulativePrestige" : "80",
-            "ratDef" : "80",
+            "ratOff" : "72",
+            "cumulativePrestige" : "40",
+            "ratDef" : "78",
             "homeState" : "Illinois",
             "ratPot" : "78",
             "ratTalent" : "75",
-            "baselinePrestige" : "70",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "80",
-            "ratOvr" : "78",
+            "ratOvr" : "70",
             "name" : "Pat Fitzgerald",
             "contractYear" : "0"
           },
