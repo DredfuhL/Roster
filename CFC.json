@@ -2227,7 +2227,7 @@
       "confTeams" : [
         {
           "abbreviation" : "BUFF",
-          "prestige" : "63",
+          "prestige" : "48",
           "hexColor" : "#000004",
           "rival" : "EMU",
           "headCoach" : {
@@ -2242,7 +2242,7 @@
             "ratTalent" : "61",
             "baselinePrestige" : "45",
             "ratDiscipline" : "75",
-            "ratOvr" : "75",
+            "ratOvr" : "59",
             "name" : "Lance Leipold",
             "contractYear" : "0"
           },
@@ -2251,7 +2251,7 @@
         },
         {
           "abbreviation" : "NIU",
-          "prestige" : "45",
+          "prestige" : "44",
           "hexColor" : "#174032",
           "rival" : "BALL",
           "headCoach" : {
@@ -2266,7 +2266,7 @@
             "ratTalent" : "60",
             "baselinePrestige" : "65",
             "ratDiscipline" : "78",
-            "ratOvr" : "70",
+            "ratOvr" : "58",
             "name" : "Thomas Hammock",
             "contractYear" : "0"
           },
@@ -2275,7 +2275,7 @@
         },
         {
           "abbreviation" : "MOH",
-          "prestige" : "42",
+          "prestige" : "53",
           "hexColor" : "#3600a0",
           "rival" : "OHIO",
           "headCoach" : {
@@ -2288,9 +2288,9 @@
             "homeState" : "Illinois",
             "ratPot" : "55",
             "ratTalent" : "49",
-            "baselinePrestige" : "37",
+            "baselinePrestige" : "50",
             "ratDiscipline" : "69",
-            "ratOvr" : "60",
+            "ratOvr" : "64",
             "name" : "Chuck Martin",
             "contractYear" : "0"
           },
@@ -2299,7 +2299,7 @@
         },
         {
           "abbreviation" : "OHIO",
-          "prestige" : "43",
+          "prestige" : "50",
           "hexColor" : "#FDB813",
           "rival" : "MOH",
           "headCoach" : {
@@ -2312,9 +2312,9 @@
             "homeState" : "Pennsylvania",
             "ratPot" : "53",
             "ratTalent" : "59",
-            "baselinePrestige" : "38",
+            "baselinePrestige" : "50",
             "ratDiscipline" : "91",
-            "ratOvr" : "74",
+            "ratOvr" : "62",
             "name" : "Frank Solich",
             "contractYear" : "0"
           },
@@ -2323,7 +2323,7 @@
         },
         {
           "abbreviation" : "EMU",
-          "prestige" : "60",
+          "prestige" : "48",
           "hexColor" : "#002D62",
           "rival" : "BUFF",
           "headCoach" : {
@@ -2336,9 +2336,9 @@
             "homeState" : "California",
             "ratPot" : "60",
             "ratTalent" : "50",
-            "baselinePrestige" : "41",
+            "baselinePrestige" : "40",
             "ratDiscipline" : "70",
-            "ratOvr" : "64",
+            "ratOvr" : "60",
             "name" : "Chris Creighton",
             "contractYear" : "0"
           },
@@ -2347,7 +2347,7 @@
         },
         {
           "abbreviation" : "TOL",
-          "prestige" : "49",
+          "prestige" : "47",
           "hexColor" : "#FFF63E",
           "rival" : "BGSU",
           "headCoach" : {
@@ -2360,9 +2360,9 @@
             "homeState" : "Ohio",
             "ratPot" : "65",
             "ratTalent" : "50",
-            "baselinePrestige" : "44",
+            "baselinePrestige" : "45",
             "ratDiscipline" : "79",
-            "ratOvr" : "71",
+            "ratOvr" : "58",
             "name" : "Jason Candle",
             "contractYear" : "0"
           },
@@ -2371,7 +2371,7 @@
         },
         {
           "abbreviation" : "BALL",
-          "prestige" : "42",
+          "prestige" : "41",
           "hexColor" : "#5e6062",
           "rival" : "NIU",
           "headCoach" : {
@@ -2384,9 +2384,9 @@
             "homeState" : "Indiana",
             "ratPot" : "62",
             "ratTalent" : "55",
-            "baselinePrestige" : "37",
+            "baselinePrestige" : "40",
             "ratDiscipline" : "69",
-            "ratOvr" : "62",
+            "ratOvr" : "55",
             "name" : "Mike Neu",
             "contractYear" : "0"
           },
@@ -2395,7 +2395,7 @@
         },
         {
           "abbreviation" : "AKR",
-          "prestige" : "41",
+          "prestige" : "25",
           "hexColor" : "#080808",
           "rival" : "KENT",
           "headCoach" : {
@@ -2408,9 +2408,9 @@
             "homeState" : "Ohio",
             "ratPot" : "60",
             "ratTalent" : "44",
-            "baselinePrestige" : "36",
+            "baselinePrestige" : "30",
             "ratDiscipline" : "88",
-            "ratOvr" : "74",
+            "ratOvr" : "49",
             "name" : "Tom Arth",
             "contractYear" : "0"
           },
@@ -2434,7 +2434,7 @@
             "ratTalent" : "59",
             "baselinePrestige" : "35",
             "ratDiscipline" : "83",
-            "ratOvr" : "70",
+            "ratOvr" : "52",
             "name" : "Scot Loeffler",
             "contractYear" : "0"
           },
@@ -2443,7 +2443,7 @@
         },
         {
           "abbreviation" : "KENT",
-          "prestige" : "45",
+          "prestige" : "49",
           "hexColor" : "#0E1112",
           "rival" : "AKR",
           "headCoach" : {
@@ -2458,7 +2458,7 @@
             "ratTalent" : "58",
             "baselinePrestige" : "40",
             "ratDiscipline" : "82",
-            "ratOvr" : "70",
+            "ratOvr" : "57",
             "name" : "Sean Lewis",
             "contractYear" : "0"
           },
@@ -2467,7 +2467,7 @@
         }
       ],
       "confFullName" : "Middle American Conference",
-      "confPrestige" : "36",
+      "confPrestige" : "35",
       "confName" : "MAC"
     },
     {
@@ -2489,7 +2489,7 @@
             "ratTalent" : "44",
             "baselinePrestige" : "25",
             "ratDiscipline" : "78",
-            "ratOvr" : "66",
+            "ratOvr" : "63",
             "name" : "Matt Entz",
             "contractYear" : "0"
           },
@@ -2561,7 +2561,7 @@
             "ratTalent" : "43",
             "baselinePrestige" : "25",
             "ratDiscipline" : "76",
-            "ratOvr" : "60",
+            "ratOvr" : "52",
             "name" : "Curt Mallory",
             "contractYear" : "0"
           },
@@ -2609,7 +2609,7 @@
             "ratTalent" : "41",
             "baselinePrestige" : "25",
             "ratDiscipline" : "75",
-            "ratOvr" : "75",
+            "ratOvr" : "57",
             "name" : "Brock Spack",
             "contractYear" : "0"
           },
@@ -2633,7 +2633,7 @@
             "ratTalent" : "63",
             "baselinePrestige" : "25",
             "ratDiscipline" : "69",
-            "ratOvr" : "64",
+            "ratOvr" : "53",
             "name" : "Doug Phillips",
             "contractYear" : "0"
           },
@@ -2657,7 +2657,7 @@
             "ratTalent" : "45",
             "baselinePrestige" : "25",
             "ratDiscipline" : "80",
-            "ratOvr" : "63",
+            "ratOvr" : "54",
             "name" : "Bob Nielson",
             "contractYear" : "0"
           },
@@ -2681,7 +2681,7 @@
             "ratTalent" : "43",
             "baselinePrestige" : "25",
             "ratDiscipline" : "74",
-            "ratOvr" : "64",
+            "ratOvr" : "63",
             "name" : "Bobby Petrino",
             "contractYear" : "0"
           },
@@ -2714,7 +2714,7 @@
         }
       ],
       "confFullName" : "Missouri Valley Conference",
-      "confPrestige" : "27",
+      "confPrestige" : "28",
       "confName" : "MVFC"
     },
     {
@@ -2760,7 +2760,7 @@
             "ratTalent" : "42",
             "baselinePrestige" : "25",
             "ratDiscipline" : "72",
-            "ratOvr" : "53",
+            "ratOvr" : "48",
             "name" : "Curt Cignetti",
             "contractYear" : "0"
           },
@@ -2832,7 +2832,7 @@
             "ratTalent" : "47",
             "baselinePrestige" : "25",
             "ratDiscipline" : "69",
-            "ratOvr" : "58",
+            "ratOvr" : "54",
             "name" : "Danny Rocco",
             "contractYear" : "0"
           },
@@ -2880,7 +2880,7 @@
             "ratTalent" : "48",
             "baselinePrestige" : "25",
             "ratDiscipline" : "71",
-            "ratOvr" : "47",
+            "ratOvr" : "45",
             "name" : "Jim Fleming",
             "contractYear" : "0"
           },
@@ -2904,7 +2904,7 @@
             "ratTalent" : "50",
             "baselinePrestige" : "25",
             "ratDiscipline" : "74",
-            "ratOvr" : "51",
+            "ratOvr" : "50",
             "name" : "Mike London",
             "contractYear" : "0"
           },
@@ -2928,7 +2928,7 @@
             "ratTalent" : "51",
             "baselinePrestige" : "25",
             "ratDiscipline" : "76",
-            "ratOvr" : "61",
+            "ratOvr" : "43",
             "name" : "Sean McDonnell",
             "contractYear" : "0"
           },
@@ -2952,7 +2952,7 @@
             "ratTalent" : "50",
             "baselinePrestige" : "25",
             "ratDiscipline" : "68",
-            "ratOvr" : "52",
+            "ratOvr" : "48",
             "name" : "Mark Ferrante",
             "contractYear" : "0"
           },
