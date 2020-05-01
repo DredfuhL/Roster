@@ -17,9 +17,9 @@
             "homeState" : "West Virginia",
             "ratPot" : "50",
             "ratTalent" : "95",
-            "baselinePrestige" : "70",
+            "baselinePrestige" : "75",
             "ratDiscipline": "96",
-            "ratOvr" : "94",
+            "ratOvr" : "95",
             "name" : "Nick Saban",
             "contractYear" : "0"
           },
@@ -28,7 +28,7 @@
         },
         {
           "abbreviation" : "UGA",
-          "prestige" : "84",
+          "prestige" : "86",
           "hexColor" : "#FCBA29",
           "rival" : "UF",
           "headCoach" : {
@@ -39,11 +39,11 @@
             "cumulativePrestige" : "30",
             "ratDef" : "73",
             "homeState" : "Alabama",
-            "ratPot" : "79",
+            "ratPot" : "75",
             "ratTalent" : "87",
             "baselinePrestige" : "75",
             "ratDiscipline" : "85",
-            "ratOvr" : "83",
+            "ratOvr" : "85",
             "name" : "Kirby Smart",
             "contractYear" : "0"
           },
@@ -52,7 +52,7 @@
         },
         {
           "abbreviation" : "UF",
-          "prestige" : "84",
+          "prestige" : "85",
           "hexColor" : "#DFFF16",
           "rival" : "UGA",
           "headCoach" : {
@@ -67,7 +67,7 @@
             "ratTalent" : "76",
             "baselinePrestige" : "75",
             "ratDiscipline" : "75",
-            "ratOvr" : "75",
+            "ratOvr" : "79",
             "name" : "Dan Mullen",
             "contractYear" : "0"
           },
@@ -76,7 +76,7 @@
         },
         {
           "abbreviation" : "TENN",
-          "prestige" : "70",
+          "prestige" : "75",
           "hexColor" : "#FDF71C",
           "rival" : "VAND",
           "headCoach" : {
@@ -89,9 +89,9 @@
             "homeState" : "Alabama",
             "ratPot" : "83",
             "ratTalent" : "70",
-            "baselinePrestige" : "60",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "62",
-            "ratOvr" : "69",
+            "ratOvr" : "74",
             "name" : "Jeremy Pruitt",
             "contractYear" : "0"
           },
@@ -100,7 +100,7 @@
         },
         {
           "abbreviation" : "LSU",
-          "prestige" : "86",
+          "prestige" : "90",
           "hexColor" : "#D72E34",
           "rival" : "ARK",
           "headCoach" : {
@@ -109,13 +109,13 @@
             "age" : "58",
             "ratOff" : "78",
             "cumulativePrestige" : "25",
-            "ratDef" : "86",
+            "ratDef" : "88",
             "homeState" : "Louisiana",
             "ratPot" : "75",
             "ratTalent" : "75",
             "baselinePrestige" : "75",
-            "ratDiscipline" : "69",
-            "ratOvr" : "75",
+            "ratDiscipline" : "70",
+            "ratOvr" : "88",
             "name" : "Ed Orgeron",
             "contractYear" : "0"
           },
@@ -124,7 +124,7 @@
         },
         {
           "abbreviation" : "MISS",
-          "prestige" : "63",
+          "prestige" : "65",
           "hexColor" : "#0F0E12",
           "rival" : "MSST",
           "headCoach" : {
@@ -137,9 +137,9 @@
             "homeState" : "Nebraska",
             "ratPot" : "84",
             "ratTalent" : "71",
-            "baselinePrestige" : "43",
-            "ratDiscipline" : "77",
-            "ratOvr" : "72",
+            "baselinePrestige" : "75",
+            "ratDiscipline" : "70",
+            "ratOvr" : "76",
             "name" : "Lane Kiffin",
             "contractYear" : "0"
           },
@@ -148,7 +148,7 @@
         },
         {
           "abbreviation" : "ARK",
-          "prestige" : "60",
+          "prestige" : "58",
           "hexColor" : "#0067AC",
           "rival" : "LSU",
           "headCoach" : {
@@ -161,9 +161,9 @@
             "homeState" : "Oklahoma",
             "ratPot" : "65",
             "ratTalent" : "68",
-            "baselinePrestige" : "60",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "70",
-            "ratOvr" : "66",
+            "ratOvr" : "65",
             "name" : "Sam Pittman",
             "contractYear" : "0"
           },
@@ -180,13 +180,13 @@
             "startYear" : "2020",
             "age" : "59",
             "ratOff" : "89",
-            "cumulativePrestige" : "40",
+            "cumulativePrestige" : "15",
             "ratDef" : "68",
             "homeState" : "California",
             "ratPot" : "65",
             "ratTalent" : "68",
-            "baselinePrestige" : "65",
-            "ratDiscipline" : "79",
+            "baselinePrestige" : "75",
+            "ratDiscipline" : "76",
             "ratOvr" : "76",
             "name" : "Mike Leach",
             "contractYear" : "0"
@@ -196,7 +196,7 @@
         },
         {
           "abbreviation" : "AUB",
-          "prestige" : "78",
+          "prestige" : "84",
           "hexColor" : "#C41130",
           "rival" : "BAMA",
           "headCoach" : {
@@ -204,14 +204,14 @@
             "startYear" : "2020",
             "age" : "54",
             "ratOff" : "80",
-            "cumulativePrestige" : "2",
+            "cumulativePrestige" : "4",
             "ratDef" : "71",
             "homeState" : "Texas",
             "ratPot" : "58",
             "ratTalent" : "70",
             "baselinePrestige" : "75",
             "ratDiscipline" : "77",
-            "ratOvr" : "75",
+            "ratOvr" : "80",
             "name" : "Gus Malzahn",
             "contractYear" : "0"
           },
@@ -220,7 +220,7 @@
         },
         {
           "abbreviation" : "VAND",
-          "prestige" : "62",
+          "prestige" : "55",
           "hexColor" : "#FDD023",
           "rival" : "TENN",
           "headCoach" : {
@@ -233,9 +233,9 @@
             "homeState" : "Arizona",
             "ratPot" : "45",
             "ratTalent" : "75",
-            "baselinePrestige" : "60",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "68",
-            "ratOvr" : "71",
+            "ratOvr" : "70",
             "name" : "Derek Mason",
             "contractYear" : "0"
           },
@@ -244,7 +244,7 @@
         }
       ],
       "confFullName" : "Southeastern Conference",
-      "confPrestige" : "92",
+      "confPrestige" : "90",
       "confName" : "SEC"
     },
     {
