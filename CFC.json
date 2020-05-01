@@ -1980,7 +1980,7 @@
       "confTeams" : [
         {
           "abbreviation" : "UAB",
-          "prestige" : "55",
+          "prestige" : "58",
           "hexColor" : "#EECFA1",
           "rival" : "MTSU",
           "headCoach" : {
@@ -2004,7 +2004,7 @@
         },
         {
           "abbreviation" : "MTSU",
-          "prestige" : "52",
+          "prestige" : "49",
           "hexColor" : "#3F7D91",
           "rival" : "UAB",
           "headCoach" : {
@@ -2019,7 +2019,7 @@
             "ratTalent" : "64",
             "baselinePrestige" : "47",
             "ratDiscipline" : "71",
-            "ratOvr" : "81",
+            "ratOvr" : "59",
             "name" : "Rick Stockstill",
             "contractYear" : "0"
           },
@@ -2028,7 +2028,7 @@
         },
         {
           "abbreviation" : "FAU",
-          "prestige" : "48",
+          "prestige" : "59",
           "hexColor" : "#6A0403",
           "rival" : "FIU",
           "headCoach" : {
@@ -2043,7 +2043,7 @@
             "ratTalent" : "61",
             "baselinePrestige" : "75",
             "ratDiscipline" : "70",
-            "ratOvr" : "63",
+            "ratOvr" : "67",
             "name" : "Willie Taggart",
             "contractYear" : "0"
           },
@@ -2052,7 +2052,7 @@
         },
         {
           "abbreviation" : "FIU",
-          "prestige" : "49",
+          "prestige" : "50",
           "hexColor" : "#1E1A1B",
           "rival" : "FAU",
           "headCoach" : {
@@ -2065,9 +2065,9 @@
             "homeState" : "Oklahoma",
             "ratPot" : "86",
             "ratTalent" : "57",
-            "baselinePrestige" : "44",
+            "baselinePrestige" : "55",
             "ratDiscipline" : "75",
-            "ratOvr" : "73",
+            "ratOvr" : "65",
             "name" : "Butch Davis",
             "contractYear" : "0"
           },
@@ -2089,9 +2089,9 @@
             "homeState" : "West Virginia",
             "ratPot" : "60",
             "ratTalent" : "53",
-            "baselinePrestige" : "46",
+            "baselinePrestige" : "50",
             "ratDiscipline" : "70",
-            "ratOvr" : "70",
+            "ratOvr" : "64",
             "name" : "Doc Holliday",
             "contractYear" : "0"
           },
@@ -2100,7 +2100,7 @@
         },
         {
           "abbreviation" : "ODU",
-          "prestige" : "49",
+          "prestige" : "35",
           "hexColor" : "#69207E",
           "rival" : "MRSH",
           "headCoach" : {
@@ -2113,9 +2113,9 @@
             "homeState" : "Colorado",
             "ratPot" : "80",
             "ratTalent" : "69",
-            "baselinePrestige" : "44",
+            "baselinePrestige" : "40",
             "ratDiscipline" : "69",
-            "ratOvr" : "68",
+            "ratOvr" : "55",
             "name" : "Ricky Rahne",
             "contractYear" : "0"
           },
@@ -2139,7 +2139,7 @@
             "ratTalent" : "58",
             "baselinePrestige" : "45",
             "ratDiscipline" : "75",
-            "ratOvr" : "65",
+            "ratOvr" : "62",
             "name" : "Seth Littrell",
             "contractYear" : "0"
           },
@@ -2148,7 +2148,7 @@
         },
         {
           "abbreviation" : "UTEP",
-          "prestige" : "47",
+          "prestige" : "35",
           "hexColor" : "#FD0026",
           "rival" : "UNT",
           "headCoach" : {
@@ -2161,9 +2161,9 @@
             "homeState" : "Ohio",
             "ratPot" : "54",
             "ratTalent" : "59",
-            "baselinePrestige" : "42",
+            "baselinePrestige" : "40",
             "ratDiscipline" : "77",
-            "ratOvr" : "71",
+            "ratOvr" : "54",
             "name" : "Dana Dimel",
             "contractYear" : "0"
           },
@@ -2172,7 +2172,7 @@
         },
         {
           "abbreviation" : "WKU",
-          "prestige" : "48",
+          "prestige" : "58",
           "hexColor" : "#C2A14D",
           "rival" : "LT",
           "headCoach" : {
@@ -2185,7 +2185,7 @@
             "homeState" : "Florida",
             "ratPot" : "60",
             "ratTalent" : "54",
-            "baselinePrestige" : "43",
+            "baselinePrestige" : "50",
             "ratDiscipline" : "68",
             "ratOvr" : "63",
             "name" : "Tyson Helton",
@@ -2196,7 +2196,7 @@
         },
         {
           "abbreviation" : "LT",
-          "prestige" : "53",
+          "prestige" : "57",
           "hexColor" : "#00285C",
           "rival" : "WKU",
           "headCoach" : {
@@ -2209,9 +2209,9 @@
             "homeState" : "Connecticut",
             "ratPot" : "60",
             "ratTalent" : "60",
-            "baselinePrestige" : "48",
+            "baselinePrestige" : "50",
             "ratDiscipline" : "71",
-            "ratOvr" : "70",
+            "ratOvr" : "64",
             "name" : "Skip Holtz",
             "contractYear" : "0"
           },
@@ -2220,7 +2220,7 @@
         }
       ],
       "confFullName" : "Conference USA",
-      "confPrestige" : "36",
+      "confPrestige" : "45",
       "confName" : "CUSA"
     },
     {
