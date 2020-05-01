@@ -1239,7 +1239,7 @@
       "confTeams" : [
         {
           "abbreviation" : "UCF",
-          "prestige" : "72",
+          "prestige" : "73",
           "hexColor" : "#E51937",
           "rival" : "USF",
           "headCoach" : {
@@ -1252,9 +1252,9 @@
             "homeState" : "South Dakota",
             "ratPot" : "75",
             "ratTalent" : "70",
-            "baselinePrestige" : "70",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "77",
-            "ratOvr" : "70",
+            "ratOvr" : "73",
             "name" : "Josh Heupel",
             "contractYear" : "0"
           },
@@ -1263,7 +1263,7 @@
         },
         {
           "abbreviation" : "USF",
-          "prestige" : "63",
+          "prestige" : "62",
           "hexColor" : "#201C1D",
           "rival" : "UCF",
           "headCoach" : {
@@ -1276,9 +1276,9 @@
             "homeState" : "Florida",
             "ratPot" : "80",
             "ratTalent" : "60",
-            "baselinePrestige" : "63",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "76",
-            "ratOvr" : "68",
+            "ratOvr" : "66",
             "name" : "Jeff Scott",
             "contractYear" : "0"
           },
@@ -1287,7 +1287,7 @@
         },
         {
           "abbreviation" : "CIN",
-          "prestige" : "70",
+          "prestige" : "75",
           "hexColor" : "#461D7C",
           "rival" : "MEM",
           "headCoach" : {
@@ -1300,9 +1300,9 @@
             "homeState" : "Ohio",
             "ratPot" : "70",
             "ratTalent" : "70",
-            "baselinePrestige" : "68",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "75",
-            "ratOvr" : "64",
+            "ratOvr" : "74",
             "name" : "Luke Fickell",
             "contractYear" : "0"
           },
@@ -1311,7 +1311,7 @@
         },
         {
           "abbreviation" : "MEM",
-          "prestige" : "64",
+          "prestige" : "75",
           "hexColor" : "#ED1B2E",
           "rival" : "CIN",
           "headCoach" : {
@@ -1324,7 +1324,7 @@
             "homeState" : "Virginia",
             "ratPot" : "71",
             "ratTalent" : "65",
-            "baselinePrestige" : "64",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "71",
             "ratOvr" : "74",
             "name" : "Ryan Silverfield",
@@ -1335,7 +1335,7 @@
         },
         {
           "abbreviation" : "CONN",
-          "prestige" : "59",
+          "prestige" : "45",
           "hexColor" : "#2B3986",
           "rival" : "TEM",
           "headCoach" : {
@@ -1348,9 +1348,9 @@
             "homeState" : "Pennsylvania",
             "ratPot" : "70",
             "ratTalent" : "47",
-            "baselinePrestige" : "59",
+            "baselinePrestige" : "65",
             "ratDiscipline" : "75",
-            "ratOvr" : "64",
+            "ratOvr" : "60",
             "name" : "Randy Edsall",
             "contractYear" : "0"
           },
@@ -1359,7 +1359,7 @@
         },
         {
           "abbreviation" : "TEM",
-          "prestige" : "61",
+          "prestige" : "62",
           "hexColor" : "#80FBFF",
           "rival" : "CONN",
           "headCoach" : {
@@ -1374,7 +1374,7 @@
             "ratTalent" : "62",
             "baselinePrestige" : "61",
             "ratDiscipline" : "67",
-            "ratOvr" : "73",
+            "ratOvr" : "70",
             "name" : "Rod Carey",
             "contractYear" : "0"
           },
@@ -1383,7 +1383,7 @@
         },
         {
           "abbreviation" : "HOU",
-          "prestige" : "62",
+          "prestige" : "57",
           "hexColor" : "#FFDE00",
           "rival" : "SMU",
           "headCoach" : {
@@ -1396,9 +1396,9 @@
             "homeState" : "Iowa",
             "ratPot" : "65",
             "ratTalent" : "65",
-            "baselinePrestige" : "62",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "80",
-            "ratOvr" : "73",
+            "ratOvr" : "71",
             "name" : "Dana Holgorsen",
             "contractYear" : "0"
           },
@@ -1407,7 +1407,7 @@
         },
         {
           "abbreviation" : "SMU",
-          "prestige" : "59",
+          "prestige" : "66",
           "hexColor" : "#A7AAAB",
           "rival" : "HOU",
           "headCoach" : {
@@ -1420,9 +1420,9 @@
             "homeState" : "Texas",
             "ratPot" : "70",
             "ratTalent" : "69",
-            "baselinePrestige" : "59",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "69",
-            "ratOvr" : "62",
+            "ratOvr" : "68",
             "name" : "Sonny Dykes",
             "contractYear" : "0"
           },
@@ -1431,7 +1431,7 @@
         },
         {
           "abbreviation" : "TULN",
-          "prestige" : "61",
+          "prestige" : "60",
           "hexColor" : "#f77f00",
           "rival" : "TLSA",
           "headCoach" : {
@@ -1444,9 +1444,9 @@
             "homeState" : "Kansas",
             "ratPot" : "70",
             "ratTalent" : "60",
-            "baselinePrestige" : "61",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "68",
-            "ratOvr" : "67",
+            "ratOvr" : "65",
             "name" : "Willie Fritz",
             "contractYear" : "0"
           },
@@ -1455,7 +1455,7 @@
         },
         {
           "abbreviation" : "TLSA",
-          "prestige" : "60",
+          "prestige" : "50",
           "hexColor" : "#2E3192",
           "rival" : "TULN",
           "headCoach" : {
@@ -1468,7 +1468,7 @@
             "homeState" : "Texas",
             "ratPot" : "68",
             "ratTalent" : "58",
-            "baselinePrestige" : "60",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "75",
             "ratOvr" : "60",
             "name" : "Philip Montgomery",
@@ -1479,7 +1479,7 @@
         }
       ],
       "confFullName" : "American Athletic Conference",
-      "confPrestige" : "57",
+      "confPrestige" : "73",
       "confName" : "AAC"
     },
     {
