@@ -505,15 +505,15 @@
             "contractLength" : "6",
             "startYear" : "2020",
             "age" : "50",
-            "ratOff" : "87",
-            "cumulativePrestige" : "98",
-            "ratDef" : "88",
+            "ratOff" : "90",
+            "cumulativePrestige" : "99",
+            "ratDef" : "94",
             "homeState" : "Alabama",
             "ratPot" : "90",
             "ratTalent" : "95",
-            "baselinePrestige" : "85",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "80",
-            "ratOvr" : "92",
+            "ratOvr" : "91",
             "name" : "Dabo Swinney",
             "contractYear" : "0"
           },
@@ -522,7 +522,7 @@
         },
         {
           "abbreviation" : "PITT",
-          "prestige" : "78",
+          "prestige" : "71",
           "hexColor" : "#B4B6B8",
           "rival" : "SYR",
           "headCoach" : {
@@ -535,9 +535,9 @@
             "homeState" : "Connecticut",
             "ratPot" : "78",
             "ratTalent" : "70",
-            "baselinePrestige" : "70",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "80",
-            "ratOvr" : "76",
+            "ratOvr" : "70",
             "name" : "Pat Narduzzi",
             "contractYear" : "0"
           },
@@ -546,11 +546,11 @@
         },
         {
           "abbreviation" : "VT",
-          "prestige" : "73",
+          "prestige" : "74",
           "hexColor" : "#EE3A43",
           "rival" : "UVA",
           "headCoach" : {
-            "contractLength" : "2",
+            "contractLength" : "5",
             "startYear" : "2020",
             "age" : "43",
             "ratOff" : "77",
@@ -559,9 +559,9 @@
             "homeState" : "Oklahoma",
             "ratPot" : "80",
             "ratTalent" : "67",
-            "baselinePrestige" : "72",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "69",
-            "ratOvr" : "71",
+            "ratOvr" : "74",
             "name" : "Justin Fuente",
             "contractYear" : "0"
           },
@@ -570,7 +570,7 @@
         },
         {
           "abbreviation" : "NCST",
-          "prestige" : "76",
+          "prestige" : "68",
           "hexColor" : "#FFC10E",
           "rival" : "CLEM",
           "headCoach" : {
@@ -578,14 +578,14 @@
             "startYear" : "2020",
             "age" : "48",
             "ratOff" : "68",
-            "cumulativePrestige" : "12",
+            "cumulativePrestige" : "6",
             "ratDef" : "78",
             "homeState" : "Kansas",
             "ratPot" : "72",
             "ratTalent" : "67",
-            "baselinePrestige" : "68",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "70",
-            "ratOvr" : "71",
+            "ratOvr" : "66",
             "name" : "Dave Doeren",
             "contractYear" : "0"
           },
@@ -594,7 +594,7 @@
         },
         {
           "abbreviation" : "FSU",
-          "prestige" : "70",
+          "prestige" : "75",
           "hexColor" : "#0E1112",
           "rival" : "MIA",
           "headCoach" : {
@@ -607,9 +607,9 @@
             "homeState" : "Texas",
             "ratPot" : "72",
             "ratTalent" : "67",
-            "baselinePrestige" : "68",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "70",
-            "ratOvr" : "70",
+            "ratOvr" : "76",
             "name" : "Mike Norvell",
             "contractYear" : "0"
           },
@@ -618,7 +618,7 @@
         },
         {
           "abbreviation" : "MIA",
-          "prestige" : "71",
+          "prestige" : "75",
           "hexColor" : "#D1D5D8",
           "rival" : "FSU",
           "headCoach" : {
@@ -631,9 +631,9 @@
             "homeState" : "Florida",
             "ratPot" : "73",
             "ratTalent" : "79",
-            "baselinePrestige" : "70",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "82",
-            "ratOvr" : "77",
+            "ratOvr" : "74",
             "name" : "Manny Diaz",
             "contractYear" : "0"
           },
@@ -642,7 +642,7 @@
         },
         {
           "abbreviation" : "ND",
-          "prestige" : "85",
+          "prestige" : "87",
           "hexColor" : "#653600",
           "rival" : "BC",
           "headCoach" : {
@@ -657,7 +657,7 @@
             "ratTalent" : "86",
             "baselinePrestige" : "75",
             "ratDiscipline" : "88",
-            "ratOvr" : "83",
+            "ratOvr" : "85",
             "name" : "Brian Kelly",
             "contractYear" : "0"
           },
@@ -666,7 +666,7 @@
         },
         {
           "abbreviation" : "BC",
-          "prestige" : "71",
+          "prestige" : "68",
           "hexColor" : "#EA4B0F",
           "rival" : "ND",
           "headCoach" : {
@@ -679,7 +679,7 @@
             "homeState" : "New Jersey",
             "ratPot" : "80",
             "ratTalent" : "81",
-            "baselinePrestige" : "65",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "80",
             "ratOvr" : "69",
             "name" : "Jeff Hafley",
@@ -690,7 +690,7 @@
         },
         {
           "abbreviation" : "SYR",
-          "prestige" : "78",
+          "prestige" : "68",
           "hexColor" : "#006AB5",
           "rival" : "PITT",
           "headCoach" : {
@@ -698,14 +698,14 @@
             "startYear" : "2020",
             "age" : "58",
             "ratOff" : "79",
-            "cumulativePrestige" : "15",
+            "cumulativePrestige" : "9",
             "ratDef" : "69",
             "homeState" : "Hawaii",
             "ratPot" : "64",
             "ratTalent" : "79",
-            "baselinePrestige" : "65",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "73",
-            "ratOvr" : "75",
+            "ratOvr" : "68",
             "name" : "Dino Babers",
             "contractYear" : "0"
           },
@@ -722,12 +722,12 @@
             "startYear" : "2020",
             "age" : "54",
             "ratOff" : "73",
-            "cumulativePrestige" : "20",
+            "cumulativePrestige" : "15",
             "ratDef" : "75",
             "homeState" : "Utah",
             "ratPot" : "70",
             "ratTalent" : "65",
-            "baselinePrestige" : "65",
+            "baselinePrestige" : "75",
             "ratDiscipline" : "75",
             "ratOvr" : "72",
             "name" : "Bronco Mendenhall",
@@ -738,7 +738,7 @@
         }
       ],
       "confFullName" : "Atlantic Coastal Conference",
-      "confPrestige" : "83",
+      "confPrestige" : "81",
       "confName" : "ACC"
     },
     {
