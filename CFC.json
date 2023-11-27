@@ -3,7 +3,7 @@
     {
       "confTeams" : [
         {
-          "abbreviation": "BAMA",
+          "abbreviation": "ALA",
           "prestige": "95",
           "hexColor" : "#D2DDFC",
           "rival": "AUB",
@@ -30,7 +30,7 @@
           "abbreviation" : "UGA",
           "prestige" : "86",
           "hexColor" : "#FCBA29",
-          "rival" : "UF",
+          "rival" : "FLA",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -51,7 +51,7 @@
           "state" : "Georgia"
         },
         {
-          "abbreviation" : "UF",
+          "abbreviation" : "FLA",
           "prestige" : "85",
           "hexColor" : "#DFFF16",
           "rival" : "UGA",
@@ -78,7 +78,7 @@
           "abbreviation" : "TENN",
           "prestige" : "75",
           "hexColor" : "#FDF71C",
-          "rival" : "VAND",
+          "rival" : "VANDY",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
