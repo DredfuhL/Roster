@@ -4,7 +4,7 @@
       "confTeams" : [
         {
           "abbreviation": "ALA",
-          "prestige": "95",
+          "prestige": "90",
           "hexColor" : "#9E1B32",
           "rival": "AUB",
           "headCoach" : {
@@ -12,16 +12,17 @@
             "startYear" : "2023",
             "age": "72",
             "ratOff" : "90",
-            "cumulativePrestige" : "95",
+            "cumulativePrestige" : "0",
             "ratDef": "95",
+            "homeTown" : "Fairmont"
             "homeState" : "West Virginia",
             "ratPot" : "50",
             "ratTalent" : "95",
-            "baselinePrestige" : "50",
+            "baselinePrestige" : "0",
             "ratDiscipline": "95",
             "ratOvr" : "95",
             "name" : "Nick Saban",
-            "contractYear" : "0"
+            "contractYear" : "1"
           },
           "name" : "Alabama",
           "state" : "Alabama"
