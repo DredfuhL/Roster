@@ -1486,23 +1486,23 @@
       "confTeams" : [
         {
           "abbreviation" : "BSU",
-          "prestige" : "70",
-          "hexColor" : "#004B85",
+          "prestige" : "40",
+          "hexColor" : "#D64309",
           "rival" : "FRES",
           "headCoach" : {
-            "contractLength" : "4",
-            "startYear" : "2020",
-            "age" : "43",
-            "ratOff" : "72",
-            "cumulativePrestige" : "0",
-            "ratDef" : "68",
-            "homeState" : "Idaho",
-            "ratPot" : "73",
+            "contractLength" : "5",
+            "startYear" : "2023",
+            "age" : "35",
+            "ratOff" : "65",
+            "cumulativePrestige" : "25",
+            "ratDef" : "65",
+            "homeState" : "California",
+            "ratPot" : "75",
             "ratTalent" : "65",
-            "baselinePrestige" : "65",
-            "ratDiscipline" : "69",
-            "ratOvr" : "72",
-            "name" : "Bryan Harsin",
+            "baselinePrestige" : "50",
+            "ratDiscipline" : "50",
+            "ratOvr" : "50",
+            "name" : "Spencer Danielson",
             "contractYear" : "0"
           },
           "name" : "Boise State",
@@ -1510,23 +1510,23 @@
         },
         {
           "abbreviation" : "FRES",
-          "prestige" : "55",
-          "hexColor" : "#F1C409",
+          "prestige" : "40",
+          "hexColor" : "#DB0032",
           "rival" : "BSU",
           "headCoach" : {
-            "contractLength" : "4",
-            "startYear" : "2020",
-            "age" : "45",
-            "ratOff" : "74",
-            "cumulativePrestige" : "0",
-            "ratDef" : "64",
-            "homeState" : "South Dakota",
-            "ratPot" : "73",
-            "ratTalent" : "67",
-            "baselinePrestige" : "65",
+            "contractLength" : "5",
+            "startYear" : "2023",
+            "age" : "62",
+            "ratOff" : "75",
+            "cumulativePrestige" : "25",
+            "ratDef" : "65",
+            "homeState" : "California",
+            "ratPot" : "60",
+            "ratTalent" : "65",
+            "baselinePrestige" : "50",
             "ratDiscipline" : "70",
             "ratOvr" : "65",
-            "name" : "Kalen DeBoer",
+            "name" : "Jeff Tedford",
             "contractYear" : "0"
           },
           "name" : "Fresno State",
@@ -1534,8 +1534,8 @@
         },
         {
           "abbreviation" : "BYU",
-          "prestige" : "55",
-          "hexColor" : "#1B49A2",
+          "prestige" : "50",
+          "hexColor" : "#002E5D",
           "rival" : "USU",
           "headCoach" : {
             "contractLength" : "4",
@@ -1558,8 +1558,8 @@
         },
         {
           "abbreviation" : "USU",
-          "prestige" : "60",
-          "hexColor" : "#00539C",
+          "prestige" : "25",
+          "hexColor" : "#00263A",
           "rival" : "BYU",
           "headCoach" : {
             "contractLength" : "4",
@@ -1582,8 +1582,8 @@
         },
         {
           "abbreviation" : "WYO",
-          "prestige" : "61",
-          "hexColor" : "#CEC499",
+          "prestige" : "30",
+          "hexColor" : "#FFC425",
           "rival" : "CSU",
           "headCoach" : {
             "contractLength" : "4",
@@ -1606,8 +1606,8 @@
         },
         {
           "abbreviation" : "CSU",
-          "prestige" : "50",
-          "hexColor" : "#B0C4DE",
+          "prestige" : "25",
+          "hexColor" : "#1E4D2B",
           "rival" : "WYO",
           "headCoach" : {
             "contractLength" : "4",
@@ -1630,8 +1630,8 @@
         },
         {
           "abbreviation" : "SDSU",
-          "prestige" : "63",
-          "hexColor" : "#ca030a",
+          "prestige" : "30",
+          "hexColor" : "#A6192E",
           "rival" : "SJSU",
           "headCoach" : {
             "contractLength" : "4",
@@ -1654,8 +1654,8 @@
         },
         {
           "abbreviation" : "SJSU",
-          "prestige" : "49",
-          "hexColor" : "#ffc94b",
+          "prestige" : "25",
+          "hexColor" : "#0055A2",
           "rival" : "SDSU",
           "headCoach" : {
             "contractLength" : "4",
@@ -1678,8 +1678,8 @@
         },
         {
           "abbreviation" : "HAW",
-          "prestige" : "60",
-          "hexColor" : "#FCBB0D",
+          "prestige" : "25",
+          "hexColor" : "#024731",
           "rival" : "AF",
           "headCoach" : {
             "contractLength" : "4",
@@ -1702,8 +1702,8 @@
         },
         {
           "abbreviation" : "AF",
-          "prestige" : "66",
-          "hexColor" : "#005d28",
+          "prestige" : "30",
+          "hexColor" : "#003087",
           "rival" : "HAW",
           "headCoach" : {
             "contractLength" : "4",
@@ -1726,15 +1726,15 @@
         }
       ],
       "confFullName" : "Mountain West",
-      "confPrestige" : "55",
+      "confPrestige" : "30",
       "confName" : "MW"
     },
     {
       "confTeams" : [
         {
           "abbreviation" : "APP",
-          "prestige" : "63",
-          "hexColor" : "#241F20",
+          "prestige" : "25",
+          "hexColor" : "#222222",
           "rival" : "CCU",
           "headCoach" : {
             "contractLength" : "4",
@@ -1757,9 +1757,9 @@
         },
         {
           "abbreviation" : "GASO",
-          "prestige" : "54",
-          "hexColor" : "#D50026",
-          "rival" : "GSU",
+          "prestige" : "25",
+          "hexColor" : "#011E41",
+          "rival" : "GAST",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2020",
@@ -1781,8 +1781,8 @@
         },
         {
           "abbreviation" : "TROY",
-          "prestige" : "50",
-          "hexColor" : "#FFFDD0",
+          "prestige" : "25",
+          "hexColor" : "#8A2432",
           "rival" : "USA",
           "headCoach" : {
             "contractLength" : "4",
@@ -1805,8 +1805,8 @@
         },
         {
           "abbreviation" : "USA",
-          "prestige" : "44",
-          "hexColor" : "#3F7D91",
+          "prestige" : "25",
+          "hexColor" : "#00205B",
           "rival" : "TROY",
           "headCoach" : {
             "contractLength" : "4",
@@ -1829,8 +1829,8 @@
         },
         {
           "abbreviation" : "ARST",
-          "prestige" : "54",
-          "hexColor" : "#210203",
+          "prestige" : "25",
+          "hexColor" : "#CC092F",
           "rival" : "TXST",
           "headCoach" : {
             "contractLength" : "4",
@@ -1853,32 +1853,32 @@
         },
         {
           "abbreviation" : "ULL",
-          "prestige" : "57",
-          "hexColor" : "#C99F05",
+          "prestige" : "25",
+          "hexColor" : "#CE181E",
           "rival" : "ULM",
           "headCoach" : {
-            "contractLength" : "4",
-            "startYear" : "2020",
-            "age" : "40",
-            "ratOff" : "58",
-            "cumulativePrestige" : "0",
-            "ratDef" : "66",
-            "homeState" : "Tennessee",
-            "ratPot" : "60",
-            "ratTalent" : "56",
+            "contractLength" : "5",
+            "startYear" : "2023",
+            "age" : "38",
+            "ratOff" : "65",
+            "cumulativePrestige" : "25",
+            "ratDef" : "65",
+            "homeState" : "Louisiana",
+            "ratPot" : "65",
+            "ratTalent" : "65",
             "baselinePrestige" : "50",
-            "ratDiscipline" : "75",
-            "ratOvr" : "64",
-            "name" : "Billy Napier",
+            "ratDiscipline" : "65",
+            "ratOvr" : "65",
+            "name" : "Michael Desormeaux",
             "contractYear" : "0"
           },
-          "name" : "Louisiana Lafayette",
+          "name" : "Louisiana",
           "state" : "Louisiana"
         },
         {
           "abbreviation" : "CCU",
-          "prestige" : "48",
-          "hexColor" : "#4C230E",
+          "prestige" : "25",
+          "hexColor" : "#006F71",
           "rival" : "APP",
           "headCoach" : {
             "contractLength" : "4",
@@ -1900,9 +1900,9 @@
           "state" : "South Carolina"
         },
         {
-          "abbreviation" : "GSU",
-          "prestige" : "54",
-          "hexColor" : "#FFCC00",
+          "abbreviation" : "GAST",
+          "prestige" : "25",
+          "hexColor" : "#0039A6",
           "rival" : "GASO",
           "headCoach" : {
             "contractLength" : "4",
@@ -1925,8 +1925,8 @@
         },
         {
           "abbreviation" : "TXST",
-          "prestige" : "41",
-          "hexColor" : "#EE363D",
+          "prestige" : "25",
+          "hexColor" : "#501214",
           "rival" : "ARST",
           "headCoach" : {
             "contractLength" : "4",
@@ -1949,8 +1949,8 @@
         },
         {
           "abbreviation" : "ULM",
-          "prestige" : "52",
-          "hexColor" : "#037961",
+          "prestige" : "25",
+          "hexColor" : "#840029",
           "rival" : "ULL",
           "headCoach" : {
             "contractLength" : "4",
@@ -1968,20 +1968,20 @@
             "name" : "Matt Viator",
             "contractYear" : "0"
           },
-          "name" : "Louisiana Monroe",
+          "name" : "Louisiana-Monroe",
           "state" : "Louisiana"
         }
       ],
       "confFullName" : "Sun Belt",
-      "confPrestige" : "40",
+      "confPrestige" : "25",
       "confName" : "SBC"
     },
     {
       "confTeams" : [
         {
           "abbreviation" : "UAB",
-          "prestige" : "58",
-          "hexColor" : "#EECFA1",
+          "prestige" : "25",
+          "hexColor" : "#006341",
           "rival" : "MTSU",
           "headCoach" : {
             "contractLength" : "4",
@@ -2004,8 +2004,8 @@
         },
         {
           "abbreviation" : "MTSU",
-          "prestige" : "49",
-          "hexColor" : "#3F7D91",
+          "prestige" : "25",
+          "hexColor" : "#0066CC",
           "rival" : "UAB",
           "headCoach" : {
             "contractLength" : "4",
@@ -2028,8 +2028,8 @@
         },
         {
           "abbreviation" : "FAU",
-          "prestige" : "59",
-          "hexColor" : "#6A0403",
+          "prestige" : "25",
+          "hexColor" : "#003366",
           "rival" : "FIU",
           "headCoach" : {
             "contractLength" : "4",
@@ -2047,13 +2047,13 @@
             "name" : "Willie Taggart",
             "contractYear" : "0"
           },
-          "name" : "Florida Atlantic",
+          "name" : "FAU",
           "state" : "Florida"
         },
         {
           "abbreviation" : "FIU",
-          "prestige" : "50",
-          "hexColor" : "#1E1A1B",
+          "prestige" : "25",
+          "hexColor" : "#081E3F",
           "rival" : "FAU",
           "headCoach" : {
             "contractLength" : "4",
@@ -2071,13 +2071,13 @@
             "name" : "Butch Davis",
             "contractYear" : "0"
           },
-          "name" : "Florida International",
+          "name" : "FIU",
           "state" : "Florida"
         },
         {
           "abbreviation" : "MRSH",
-          "prestige" : "51",
-          "hexColor" : "#EECFA1",
+          "prestige" : "30",
+          "hexColor" : "#00B140",
           "rival" : "ODU",
           "headCoach" : {
             "contractLength" : "4",
@@ -2100,8 +2100,8 @@
         },
         {
           "abbreviation" : "ODU",
-          "prestige" : "35",
-          "hexColor" : "#69207E",
+          "prestige" : "25",
+          "hexColor" : "#003057",
           "rival" : "MRSH",
           "headCoach" : {
             "contractLength" : "4",
@@ -2124,8 +2124,8 @@
         },
         {
           "abbreviation" : "UNT",
-          "prestige" : "50",
-          "hexColor" : "#FF2000",
+          "prestige" : "25",
+          "hexColor" : "#00853E",
           "rival" : "UTEP",
           "headCoach" : {
             "contractLength" : "4",
@@ -2148,8 +2148,8 @@
         },
         {
           "abbreviation" : "UTEP",
-          "prestige" : "35",
-          "hexColor" : "#FD0026",
+          "prestige" : "25",
+          "hexColor" : "#FF8200",
           "rival" : "UNT",
           "headCoach" : {
             "contractLength" : "4",
@@ -2172,8 +2172,8 @@
         },
         {
           "abbreviation" : "WKU",
-          "prestige" : "58",
-          "hexColor" : "#C2A14D",
+          "prestige" : "25",
+          "hexColor" : "#C60C30",
           "rival" : "LT",
           "headCoach" : {
             "contractLength" : "4",
@@ -2196,8 +2196,8 @@
         },
         {
           "abbreviation" : "LT",
-          "prestige" : "57",
-          "hexColor" : "#00285C",
+          "prestige" : "25",
+          "hexColor" : "#002F8B",
           "rival" : "WKU",
           "headCoach" : {
             "contractLength" : "4",
@@ -2220,30 +2220,30 @@
         }
       ],
       "confFullName" : "Conference USA",
-      "confPrestige" : "45",
+      "confPrestige" : "25",
       "confName" : "CUSA"
     },
     {
       "confTeams" : [
         {
           "abbreviation" : "BUFF",
-          "prestige" : "48",
-          "hexColor" : "#000004",
+          "prestige" : "25",
+          "hexColor" : "#005BBB",
           "rival" : "EMU",
           "headCoach" : {
-            "contractLength" : "4",
-            "startYear" : "2020",
-            "age" : "55",
-            "ratOff" : "50",
-            "cumulativePrestige" : "0",
-            "ratDef" : "59",
-            "homeState" : "Wisconsin",
-            "ratPot" : "59",
-            "ratTalent" : "61",
-            "baselinePrestige" : "45",
+            "contractLength" : "5",
+            "startYear" : "2023",
+            "age" : "39",
+            "ratOff" : "65",
+            "cumulativePrestige" : "25",
+            "ratDef" : "65",
+            "homeState" : "Texas",
+            "ratPot" : "70",
+            "ratTalent" : "60",
+            "baselinePrestige" : "50",
             "ratDiscipline" : "75",
-            "ratOvr" : "59",
-            "name" : "Lance Leipold",
+            "ratOvr" : "60",
+            "name" : "Maurice Linguist",
             "contractYear" : "0"
           },
           "name" : "Buffalo",
@@ -2251,8 +2251,8 @@
         },
         {
           "abbreviation" : "NIU",
-          "prestige" : "44",
-          "hexColor" : "#174032",
+          "prestige" : "25",
+          "hexColor" : "#BA0C2F",
           "rival" : "BALL",
           "headCoach" : {
             "contractLength" : "4",
@@ -2275,8 +2275,8 @@
         },
         {
           "abbreviation" : "MOH",
-          "prestige" : "53",
-          "hexColor" : "#3600a0",
+          "prestige" : "40",
+          "hexColor" : "#B61E2E",
           "rival" : "OHIO",
           "headCoach" : {
             "contractLength" : "4",
@@ -2299,8 +2299,8 @@
         },
         {
           "abbreviation" : "OHIO",
-          "prestige" : "50",
-          "hexColor" : "#FDB813",
+          "prestige" : "25",
+          "hexColor" : "#00694E",
           "rival" : "MOH",
           "headCoach" : {
             "contractLength" : "4",
@@ -2323,8 +2323,8 @@
         },
         {
           "abbreviation" : "EMU",
-          "prestige" : "48",
-          "hexColor" : "#002D62",
+          "prestige" : "25",
+          "hexColor" : "#006633",
           "rival" : "BUFF",
           "headCoach" : {
             "contractLength" : "4",
@@ -2347,8 +2347,8 @@
         },
         {
           "abbreviation" : "TOL",
-          "prestige" : "47",
-          "hexColor" : "#FFF63E",
+          "prestige" : "40",
+          "hexColor" : "#15397F",
           "rival" : "BGSU",
           "headCoach" : {
             "contractLength" : "4",
@@ -2371,8 +2371,8 @@
         },
         {
           "abbreviation" : "BALL",
-          "prestige" : "41",
-          "hexColor" : "#5e6062",
+          "prestige" : "25",
+          "hexColor" : "#BA0C2F",
           "rival" : "NIU",
           "headCoach" : {
             "contractLength" : "4",
@@ -2396,7 +2396,7 @@
         {
           "abbreviation" : "AKR",
           "prestige" : "25",
-          "hexColor" : "#080808",
+          "hexColor" : "#041E42",
           "rival" : "KENT",
           "headCoach" : {
             "contractLength" : "4",
@@ -2419,8 +2419,8 @@
         },
         {
           "abbreviation" : "BGSU",
-          "prestige" : "40",
-          "hexColor" : "#ffc425",
+          "prestige" : "30",
+          "hexColor" : "#FE5000",
           "rival" : "TOL",
           "headCoach" : {
             "contractLength" : "4",
@@ -2443,8 +2443,8 @@
         },
         {
           "abbreviation" : "KENT",
-          "prestige" : "49",
-          "hexColor" : "#0E1112",
+          "prestige" : "25",
+          "hexColor" : "#002664",
           "rival" : "AKR",
           "headCoach" : {
             "contractLength" : "4",
@@ -2467,16 +2467,16 @@
         }
       ],
       "confFullName" : "Mid-American",
-      "confPrestige" : "35",
+      "confPrestige" : "30",
       "confName" : "MAC"
     },
     {
       "confTeams" : [
         {
-          "abbreviation" : "NDSU",
-          "prestige" : "30",
-          "hexColor" : "#909095",
-          "rival" : "SDSU",
+          "abbreviation" : "NDST",
+          "prestige" : "25",
+          "hexColor" : "#0A5640",
+          "rival" : "SDST",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2020",
@@ -2497,10 +2497,10 @@
           "state" : "North Dakota"
         },
         {
-          "abbreviation" : "SDSU",
+          "abbreviation" : "SDST",
           "prestige" : "25",
-          "hexColor" : "#7F7F7F",
-          "rival" : "NDSU",
+          "hexColor" : "#0033A0",
+          "rival" : "NDST",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2020",
@@ -2523,7 +2523,7 @@
         {
           "abbreviation" : "UNI",
           "prestige" : "25",
-          "hexColor" : "#004C7D",
+          "hexColor" : "#4B116F",
           "rival" : "WIU",
           "headCoach" : {
             "contractLength" : "4",
@@ -2547,7 +2547,7 @@
         {
           "abbreviation" : "INST",
           "prestige" : "25",
-          "hexColor" : "#B00C23",
+          "hexColor" : "#0142BC",
           "rival" : "YSU",
           "headCoach" : {
             "contractLength" : "4",
@@ -2571,7 +2571,7 @@
         {
           "abbreviation" : "WIU",
           "prestige" : "25",
-          "hexColor" : "#002366",
+          "hexColor" : "#663399",
           "rival" : "UNI",
           "headCoach" : {
             "contractLength" : "4",
@@ -2595,7 +2595,7 @@
         {
           "abbreviation" : "ILST",
           "prestige" : "25",
-          "hexColor" : "#690B0B",
+          "hexColor" : "#CE1126",
           "rival" : "SDAK",
           "headCoach" : {
             "contractLength" : "4",
@@ -2619,7 +2619,7 @@
         {
           "abbreviation" : "YSU",
           "prestige" : "25",
-          "hexColor" : "#F2B43B",
+          "hexColor" : "#C8102E",
           "rival" : "INST",
           "headCoach" : {
             "contractLength" : "4",
@@ -2643,7 +2643,7 @@
         {
           "abbreviation" : "SDAK",
           "prestige" : "25",
-          "hexColor" : "#18581C",
+          "hexColor" : "#AD0000",
           "rival" : "ILST",
           "headCoach" : {
             "contractLength" : "4",
@@ -2667,7 +2667,7 @@
         {
           "abbreviation" : "MOST",
           "prestige" : "25",
-          "hexColor" : "#F5A329",
+          "hexColor" : "#5E0009",
           "rival" : "SIU",
           "headCoach" : {
             "contractLength" : "4",
@@ -2691,7 +2691,7 @@
         {
           "abbreviation" : "SIU",
           "prestige" : "25",
-          "hexColor" : "#00244D",
+          "hexColor" : "#720000",
           "rival" : "MOST",
           "headCoach" : {
             "contractLength" : "4",
@@ -2722,7 +2722,7 @@
         {
           "abbreviation" : "MNE",
           "prestige" : "25",
-          "hexColor" : "#004B85",
+          "hexColor" : "#003263",
           "rival" : "STON",
           "headCoach" : {
             "contractLength" : "4",
@@ -2746,7 +2746,7 @@
         {
           "abbreviation" : "JMU",
           "prestige" : "25",
-          "hexColor" : "#FFE000",
+          "hexColor" : "#450084",
           "rival" : "WM",
           "headCoach" : {
             "contractLength" : "4",
@@ -2770,7 +2770,7 @@
         {
           "abbreviation" : "STON",
           "prestige" : "25",
-          "hexColor" : "#131149",
+          "hexColor" : "#990000",
           "rival" : "MNE",
           "headCoach" : {
             "contractLength" : "4",
@@ -2794,7 +2794,7 @@
         {
           "abbreviation" : "TOWS",
           "prestige" : "25",
-          "hexColor" : "#662929",
+          "hexColor" : "#FFBB00",
           "rival" : "DEL",
           "headCoach" : {
             "contractLength" : "4",
@@ -2818,7 +2818,7 @@
         {
           "abbreviation" : "DEL",
           "prestige" : "25",
-          "hexColor" : "#3A1769",
+          "hexColor" : "#00539F",
           "rival" : "TOWS",
           "headCoach" : {
             "contractLength" : "4",
@@ -2842,7 +2842,7 @@
         {
           "abbreviation" : "ELON",
           "prestige" : "25",
-          "hexColor" : "#a8adb4",
+          "hexColor" : "#73000A",
           "rival" : "NOVA",
           "headCoach" : {
             "contractLength" : "4",
@@ -2866,7 +2866,7 @@
         {
           "abbreviation" : "URI",
           "prestige" : "25",
-          "hexColor" : "#003E24",
+          "hexColor" : "#68ABE8",
           "rival" : "UNH",
           "headCoach" : {
             "contractLength" : "4",
@@ -2890,7 +2890,7 @@
         {
           "abbreviation" : "WM",
           "prestige" : "25",
-          "hexColor" : "#9B8348",
+          "hexColor" : "#115740",
           "rival" : "JMU",
           "headCoach" : {
             "contractLength" : "4",
@@ -2914,7 +2914,7 @@
         {
           "abbreviation" : "UNH",
           "prestige" : "25",
-          "hexColor" : "#BF2C37",
+          "hexColor" : "#041E42",
           "rival" : "URI",
           "headCoach" : {
             "contractLength" : "4",
@@ -2938,7 +2938,7 @@
         {
           "abbreviation" : "NOVA",
           "prestige" : "25",
-          "hexColor" : "#C0A000",
+          "hexColor" : "#00205B",
           "rival" : "ELON",
           "headCoach" : {
             "contractLength" : "4",
