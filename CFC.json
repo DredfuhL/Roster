@@ -4,7 +4,7 @@
       "confTeams" : [
         {
           "abbreviation": "ALA",
-          "prestige": "90",
+          "prestige": "95",
           "hexColor" : "#9E1B32",
           "rival": "AUB",
           "headCoach" : {
@@ -28,7 +28,7 @@
         },
         {
           "abbreviation" : "UGA",
-          "prestige" : "75",
+          "prestige" : "70",
           "hexColor" : "#BA0C2F",
           "rival" : "FLA",
           "headCoach" : {
@@ -172,7 +172,7 @@
         },
         {
           "abbreviation" : "MSST",
-          "prestige" : "35",
+          "prestige" : "30",
           "hexColor" : "#660000",
           "rival" : "MISS",
           "headCoach" : {
@@ -243,7 +243,7 @@
           "state" : "Tennessee"
         }
       ],
-      "confFullName" : "Southeastern Conference",
+      "confFullName" : "Southeastern",
       "confPrestige" : "60",
       "confName" : "SEC"
     },
