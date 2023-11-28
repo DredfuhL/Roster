@@ -1239,44 +1239,44 @@
       "confTeams" : [
         {
           "abbreviation" : "UCF",
-          "prestige" : "73",
-          "hexColor" : "#E51937",
+          "prestige" : "30",
+          "hexColor" : "#FFC904",
           "rival" : "USF",
           "headCoach" : {
-            "contractLength" : "4",
-            "startYear" : "2020",
-            "age" : "42",
-            "ratOff" : "71",
-            "cumulativePrestige" : "2",
-            "ratDef" : "70",
-            "homeState" : "South Dakota",
-            "ratPot" : "75",
+            "contractLength" : "5",
+            "startYear" : "2023",
+            "age" : "58",
+            "ratOff" : "70",
+            "cumulativePrestige" : "25",
+            "ratDef" : "75",
+            "homeState" : "Texas",
+            "ratPot" : "70",
             "ratTalent" : "70",
-            "baselinePrestige" : "75",
-            "ratDiscipline" : "77",
-            "ratOvr" : "73",
-            "name" : "Josh Heupel",
+            "baselinePrestige" : "50",
+            "ratDiscipline" : "75",
+            "ratOvr" : "75",
+            "name" : "Gus Malzahn",
             "contractYear" : "0"
           },
-          "name" : "UCF",
+          "name" : "Central Florida",
           "state" : "Florida"
         },
         {
           "abbreviation" : "USF",
-          "prestige" : "62",
-          "hexColor" : "#201C1D",
+          "prestige" : "25",
+          "hexColor" : "#006747",
           "rival" : "UCF",
           "headCoach" : {
-            "contractLength" : "4",
-            "startYear" : "2020",
+            "contractLength" : "5",
+            "startYear" : "2023",
             "age" : "39",
             "ratOff" : "74",
-            "cumulativePrestige" : "0",
+            "cumulativePrestige" : "25",
             "ratDef" : "62",
             "homeState" : "Florida",
             "ratPot" : "80",
             "ratTalent" : "60",
-            "baselinePrestige" : "75",
+            "baselinePrestige" : "50",
             "ratDiscipline" : "76",
             "ratOvr" : "66",
             "name" : "Jeff Scott",
@@ -1287,23 +1287,23 @@
         },
         {
           "abbreviation" : "CIN",
-          "prestige" : "75",
-          "hexColor" : "#461D7C",
+          "prestige" : "30",
+          "hexColor" : "#E00122",
           "rival" : "MEM",
           "headCoach" : {
-            "contractLength" : "4",
-            "startYear" : "2020",
-            "age" : "46",
+            "contractLength" : "5",
+            "startYear" : "2023",
+            "age" : "50",
             "ratOff" : "65",
-            "cumulativePrestige" : "0",
-            "ratDef" : "56",
-            "homeState" : "Ohio",
+            "cumulativePrestige" : "25",
+            "ratDef" : "65",
+            "homeState" : "North Carolina",
             "ratPot" : "70",
             "ratTalent" : "70",
-            "baselinePrestige" : "75",
-            "ratDiscipline" : "75",
-            "ratOvr" : "74",
-            "name" : "Luke Fickell",
+            "baselinePrestige" : "50",
+            "ratDiscipline" : "60",
+            "ratOvr" : "60",
+            "name" : "Scott Satterfield",
             "contractYear" : "0"
           },
           "name" : "Cincinnati",
@@ -1311,8 +1311,8 @@
         },
         {
           "abbreviation" : "MEM",
-          "prestige" : "75",
-          "hexColor" : "#ED1B2E",
+          "prestige" : "25",
+          "hexColor" : "#003087",
           "rival" : "CIN",
           "headCoach" : {
             "contractLength" : "4",
@@ -1335,8 +1335,8 @@
         },
         {
           "abbreviation" : "CONN",
-          "prestige" : "45",
-          "hexColor" : "#2B3986",
+          "prestige" : "25",
+          "hexColor" : "#000E2F",
           "rival" : "TEM",
           "headCoach" : {
             "contractLength" : "4",
@@ -1359,8 +1359,8 @@
         },
         {
           "abbreviation" : "TEM",
-          "prestige" : "62",
-          "hexColor" : "#80FBFF",
+          "prestige" : "25",
+          "hexColor" : "#9D2235",
           "rival" : "CONN",
           "headCoach" : {
             "contractLength" : "4",
@@ -1383,8 +1383,8 @@
         },
         {
           "abbreviation" : "HOU",
-          "prestige" : "57",
-          "hexColor" : "#FFDE00",
+          "prestige" : "40",
+          "hexColor" : "#C8102E",
           "rival" : "SMU",
           "headCoach" : {
             "contractLength" : "4",
@@ -1407,8 +1407,8 @@
         },
         {
           "abbreviation" : "SMU",
-          "prestige" : "66",
-          "hexColor" : "#A7AAAB",
+          "prestige" : "30",
+          "hexColor" : "#0033A0",
           "rival" : "HOU",
           "headCoach" : {
             "contractLength" : "4",
@@ -1431,8 +1431,8 @@
         },
         {
           "abbreviation" : "TULN",
-          "prestige" : "60",
-          "hexColor" : "#f77f00",
+          "prestige" : "25",
+          "hexColor" : "#006747",
           "rival" : "TLSA",
           "headCoach" : {
             "contractLength" : "4",
@@ -1455,8 +1455,8 @@
         },
         {
           "abbreviation" : "TLSA",
-          "prestige" : "50",
-          "hexColor" : "#2E3192",
+          "prestige" : "30",
+          "hexColor" : "#002D72",
           "rival" : "TULN",
           "headCoach" : {
             "contractLength" : "4",
@@ -1478,8 +1478,8 @@
           "state" : "Oklahoma"
         }
       ],
-      "confFullName" : "American Athletic Conference",
-      "confPrestige" : "73",
+      "confFullName" : "American Athletic",
+      "confPrestige" : "30",
       "confName" : "AAC"
     },
     {
@@ -1725,9 +1725,9 @@
           "state" : "Colorado"
         }
       ],
-      "confFullName" : "Mountain West Conference",
-      "confPrestige" : "56",
-      "confName" : "MWC"
+      "confFullName" : "Mountain West",
+      "confPrestige" : "55",
+      "confName" : "MW"
     },
     {
       "confTeams" : [
@@ -1972,8 +1972,8 @@
           "state" : "Louisiana"
         }
       ],
-      "confFullName" : "Sun Belt Conference",
-      "confPrestige" : "42",
+      "confFullName" : "Sun Belt",
+      "confPrestige" : "40",
       "confName" : "SBC"
     },
     {
@@ -2466,7 +2466,7 @@
           "state" : "Ohio"
         }
       ],
-      "confFullName" : "Middle American Conference",
+      "confFullName" : "Mid-American",
       "confPrestige" : "35",
       "confName" : "MAC"
     },
@@ -2713,9 +2713,9 @@
           "state" : "Illinois"
         }
       ],
-      "confFullName" : "Missouri Valley Conference",
-      "confPrestige" : "28",
-      "confName" : "MVFC"
+      "confFullName" : "Missouri Valley",
+      "confPrestige" : "25",
+      "confName" : "MVC"
     },
     {
       "confTeams" : [
