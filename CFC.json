@@ -14,15 +14,13 @@
             "ratOff" : "90",
             "cumulativePrestige" : "0",
             "ratDef": "90",
-            "homeTown" : "Fairmont",
-            "homeState" : "West Virginia",
             "ratPot" : "50",
             "ratTalent" : "90",
             "baselinePrestige" : "0",
             "ratDiscipline": "90",
             "ratOvr" : "90",
             "name" : "Nick Saban",
-            "contractYear" : "1"
+            "contractYear" : "0"
           },
           "name" : "Alabama",
           "state" : "Alabama"
