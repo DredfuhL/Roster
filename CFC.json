@@ -1,6 +1,5 @@
 {  
-  "proRelMode" : "vertical",
-  "promotionRoutes" : {
+  "promotionRoutes": {
     "CUSA" : "AAC",
     "FBS" : "ACC",
     "MAC" : "B1G",
@@ -8,7 +7,7 @@
     "SBC" : "XII",
     "SWAC" : "SEC",
   },
-  "relegationRoutes" : {
+  "relegationRoutes": {
     "AAC" : "CUSA",
     "ACC" : "FBS",
     "B1G" : "MAC",
