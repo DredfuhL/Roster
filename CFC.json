@@ -1,4 +1,21 @@
-{
+{  
+  "proRelMode" : "vertical",
+  "promotionRoutes" : {
+    "CUSA" : "AAC",
+    "FBS" : "ACC",
+    "MAC" : "B1G",
+    "MWC" : "PAC",
+    "SBC" : "XII",
+    "SWAC" : "SEC",
+  },
+  "relegationRoutes" : {
+    "AAC" : "CUSA",
+    "ACC" : "FBS",
+    "B1G" : "MAC",
+    "XII" : "SBC",
+    "PAC" : "MWC",
+    "SEC" : "SWAC",
+  },
   "conferences" : [
     {
       "confTeams" : [
