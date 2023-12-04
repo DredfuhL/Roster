@@ -23,6 +23,14 @@
           "prestige": "25",
           "hexColor" : "#046A38",
           "rival": "ECU",
+          "offCoordinator" : {
+            "age" : "32",
+            "name" : "Mike Miller"
+          },
+          "defCoordinator" : {
+            "age" : "32",
+            "name" : "Ryan Osborn"
+          },
           "headCoach" : {
             "contractLength": "5",
             "startYear" : "2023",
@@ -46,6 +54,14 @@
           "prestige" : "25",
           "hexColor" : "#592A8A",
           "rival" : "CLT",
+          "offCoordinator" : {
+            "age" : "64",
+            "name" : "Donnie Kirkpatrick"
+          },
+          "defCoordinator" : {
+            "age" : "45",
+            "name" : "Blake Harrell"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -69,6 +85,14 @@
           "prestige" : "30",
           "hexColor" : "#003087",
           "rival" : "UAB",
+          "offCoordinator" : {
+            "age" : "48",
+            "name" : "Tim Cramsey"
+          },
+          "defCoordinator" : {
+            "age" : "37",
+            "name" : "Matt Barnes"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -92,6 +116,14 @@
           "prestige" : "25",
           "hexColor" : "#006341",
           "rival" : "MEM",
+          "offCoordinator" : {
+            "age" : "38",
+            "name" : "Alex Mortensen"
+          },
+          "defCoordinator" : {
+            "age" : "44",
+            "name" : "Sione Ta'ufo'ou"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -115,6 +147,14 @@
           "prestige" : "25",
           "hexColor" : "#00853E",
           "rival" : "UTSA",
+          "offCoordinator" : {
+            "age" : "32",
+            "name" : "Jordan Davis"
+          },
+          "defCoordinator" : {
+            "age" : "42",
+            "name" : "Matt Caponi"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -138,6 +178,14 @@
           "prestige" : "30",
           "hexColor" : "#F15A22",
           "rival" : "UNT",
+          "offCoordinator" : {
+            "age" : "36",
+            "name" : "Justin Burke"
+          },
+          "defCoordinator" : {
+            "age" : "45",
+            "name" : "Jess Loepp"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -161,6 +209,14 @@
           "prestige" : "25",
           "hexColor" : "#00205B",
           "rival" : "SMU",
+          "offCoordinator" : {
+            "age" : "44",
+            "name" : "Marques Tuiasosopo"
+          },
+          "defCoordinator" : {
+            "age" : "44",
+            "name" : "Brian Smith"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -184,6 +240,14 @@
           "prestige" : "40",
           "hexColor" : "#0033A0",
           "rival" : "RICE",
+          "offCoordinator" : {
+            "age" : "40",
+            "name" : "Casey Woods"
+          },
+          "defCoordinator" : {
+            "age" : "37",
+            "name" : "Scott Symons"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -207,6 +271,14 @@
           "prestige" : "40",
           "hexColor" : "#006747",
           "rival" : "TLSA",
+          "offCoordinator" : {
+            "age" : "62",
+            "name" : "Dan Roushar"
+          },
+          "defCoordinator" : {
+            "age" : "38",
+            "name" : "Shiel Wood"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -230,6 +302,14 @@
           "prestige" : "25",
           "hexColor" : "#002D72",
           "rival" : "TULN",
+          "offCoordinator" : {
+            "age" : "52",
+            "name" : "Steve Spurrier Jr."
+          },
+          "defCoordinator" : {
+            "age" : "40",
+            "name" : "Chris Polizzi"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
