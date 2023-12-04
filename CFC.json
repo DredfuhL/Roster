@@ -1231,8 +1231,14 @@
           "prestige" : "90",
           "hexColor" : "#9E1B32",
           "rival" : "AUB",
-          "offCoordinator" : "Tommy Rees",
-          "defCoordinator" : "Kevin Steele",
+          "offCoordinator" : {
+            "age" : "32",
+            "name" : "Tommy Rees"
+          },
+          "defCoordinator" : {
+            "age" : "65",
+            "name" : "Kevin Steele"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
