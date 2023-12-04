@@ -260,6 +260,14 @@
           "prestige" : "40",
           "hexColor" : "#98002E",
           "rival" : "SYR",
+          "offCoordinator" : {
+            "age" : "33",
+            "name" : "Steve Shimko"
+          },
+          "defCoordinator" : {
+            "age" : "47",
+            "name" : "Aazaar Abdul-Rahim"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -283,6 +291,14 @@
           "prestige" : "40",
           "hexColor" : "#F76900",
           "rival" : "BC",
+          "offCoordinator" : {
+            "age" : "43",
+            "name" : "Jason Beck"
+          },
+          "defCoordinator" : {
+            "age" : "73",
+            "name" : "Rocky Long"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -306,6 +322,14 @@
           "prestige" : "80",
           "hexColor" : "#F56600",
           "rival" : "NCST",
+          "offCoordinator" : {
+            "age" : "34",
+            "name" : "Garrett Riley"
+          },
+          "defCoordinator" : {
+            "age" : "38",
+            "name" : "Wes Goodwin"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -329,6 +353,14 @@
           "prestige" : "50",
           "hexColor" : "#CC0000",
           "rival" : "CLEM",
+          "offCoordinator" : {
+            "age" : "64",
+            "name" : "Robert Anae"
+          },
+          "defCoordinator" : {
+            "age" : "51",
+            "name" : "Tony Gibson"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -352,6 +384,14 @@
           "prestige" : "40",
           "hexColor" : "#003087",
           "rival" : "UNC",
+          "offCoordinator" : {
+            "age" : "48",
+            "name" : "Kevin Johns"
+          },
+          "defCoordinator" : {
+            "age" : "35",
+            "name" : "Tyler Santucci"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -375,6 +415,14 @@
           "prestige" : "60",
           "hexColor" : "#7BAFD4",
           "rival" : "DUKE",
+          "offCoordinator" : {
+            "age" : "49",
+            "name" : "Chip Lindsey"
+          },
+          "defCoordinator" : {
+            "age" : "61",
+            "name" : "Gene Chizik"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -398,6 +446,14 @@
           "prestige" : "70",
           "hexColor" : "#782F40",
           "rival" : "MIA",
+          "offCoordinator" : {
+            "age" : "38",
+            "name" : "Alex Atkins"
+          },
+          "defCoordinator" : {
+            "age" : "47",
+            "name" : "Adam Fuller"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -421,6 +477,14 @@
           "prestige" : "70",
           "hexColor" : "#F47321",
           "rival" : "FSU",
+          "offCoordinator" : {
+            "age" : "46",
+            "name" : "Shannon Dawson"
+          },
+          "defCoordinator" : {
+            "age" : "52",
+            "name" : "Lance Guidry"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -444,6 +508,14 @@
           "prestige" : "40",
           "hexColor" : "#232D4B",
           "rival" : "VT",
+          "offCoordinator" : {
+            "age" : "45",
+            "name" : "Desmond Kitchings"
+          },
+          "defCoordinator" : {
+            "age" : "40",
+            "name" : "John Rudzinski"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -467,6 +539,14 @@
           "prestige" : "50",
           "hexColor" : "#630031",
           "rival" : "UVA",
+          "offCoordinator" : {
+            "age" : "34",
+            "name" : "Tyler Bowen"
+          },
+          "defCoordinator" : {
+            "age" : "34",
+            "name" : "Chris Marve"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -497,6 +577,14 @@
           "prestige" : "60",
           "hexColor" : "#154734",
           "rival" : "TCU",
+          "offCoordinator" : {
+            "age" : "55",
+            "name" : "Jeff Grimes"
+          },
+          "defCoordinator" : {
+            "age" : "36",
+            "name" : "Matt Powledge"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -520,6 +608,14 @@
           "prestige" : "60",
           "hexColor" : "#4D1979",
           "rival" : "BAY",
+          "offCoordinator" : {
+            "age" : "41",
+            "name" : "Kendal Briles"
+          },
+          "defCoordinator" : {
+            "age" : "52",
+            "name" : "Joe Gillespie"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -543,6 +639,14 @@
           "prestige" : "40",
           "hexColor" : "#E00122",
           "rival" : "WVU",
+          "offCoordinator" : {
+            "age" : "51",
+            "name" : "Brad Glenn"
+          },
+          "defCoordinator" : {
+            "age" : "40",
+            "name" : "Bryan Brown"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -566,6 +670,14 @@
           "prestige" : "50",
           "hexColor" : "#002855",
           "rival" : "CIN",
+          "offCoordinator" : {
+            "age" : "41",
+            "name" : "Chad Scott"
+          },
+          "defCoordinator" : {
+            "age" : "42",
+            "name" : "Jordan Lesley"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -589,6 +701,14 @@
           "prestige" : "30",
           "hexColor" : "#C8102E",
           "rival" : "TTU",
+          "offCoordinator" : {
+            "age" : "36",
+            "name" : "Eman Naghavi"
+          },
+          "defCoordinator" : {
+            "age" : "36",
+            "name" : "Doug Belk"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -612,6 +732,14 @@
           "prestige" : "50",
           "hexColor" : "#CC0000",
           "rival" : "HOU",
+          "offCoordinator" : {
+            "age" : "32",
+            "name" : "Zach Kittley"
+          },
+          "defCoordinator" : {
+            "age" : "60",
+            "name" : "Tim DeRuyter"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -635,6 +763,14 @@
           "prestige" : "30",
           "hexColor" : "#0051BA",
           "rival" : "KSU",
+          "offCoordinator" : {
+            "age" : "54",
+            "name" : "Jim Zebrowski"
+          },
+          "defCoordinator" : {
+            "age" : "60",
+            "name" : "Brian Borland"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -658,6 +794,14 @@
           "prestige" : "40",
           "hexColor" : "#512888",
           "rival" : "KAN",
+          "offCoordinator" : {
+            "age" : "34",
+            "name" : "Collin Klein"
+          },
+          "defCoordinator" : {
+            "age" : "44",
+            "name" : "Joe Klanderman"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -681,6 +825,14 @@
           "prestige" : "80",
           "hexColor" : "#841617",
           "rival" : "TEX",
+          "offCoordinator" : {
+            "age" : "45",
+            "name" : "Seth Littrell"
+          },
+          "defCoordinator" : {
+            "age" : "59",
+            "name" : "Ted Roof"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -704,6 +856,14 @@
           "prestige" : "80",
           "hexColor" : "#BF5700",
           "rival" : "OKLA",
+          "offCoordinator" : {
+            "age" : "52",
+            "name" : "Kyle Flood"
+          },
+          "defCoordinator" : {
+            "age" : "57",
+            "name" : "Pete Kwiatkowski"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -734,6 +894,14 @@
           "prestige" : "40",
           "hexColor" : "#990000",
           "rival" : "PUR",
+          "offCoordinator" : {
+            "age" : "52",
+            "name" : "Rod Carey"
+          },
+          "defCoordinator" : {
+            "age" : "45",
+            "name" : "Chad Wilt"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -757,6 +925,14 @@
           "prestige" : "50",
           "hexColor" : "#CEB888",
           "rival" : "IND",
+          "offCoordinator" : {
+            "age" : "38",
+            "name" : "Graham Harrell"
+          },
+          "defCoordinator" : {
+            "age" : "39",
+            "name" : "Kevin Kane"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -780,6 +956,14 @@
           "prestige" : "60",
           "hexColor" : "#FFCD00",
           "rival" : "NEB",
+          "offCoordinator" : {
+            "age" : "40",
+            "name" : "Brian Ferentz"
+          },
+          "defCoordinator" : {
+            "age" : "60",
+            "name" : "Phil Parker"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -803,6 +987,14 @@
           "prestige" : "50",
           "hexColor" : "#E41C38",
           "rival" : "IOWA",
+          "offCoordinator" : {
+            "age" : "47",
+            "name" : "Marcus Satterfield"
+          },
+          "defCoordinator" : {
+            "age" : "44",
+            "name" : "Tony White"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -826,6 +1018,14 @@
           "prestige" : "90",
           "hexColor" : "#00274C",
           "rival" : "OSU",
+          "offCoordinator" : {
+            "age" : "37",
+            "name" : "Sherrone Moore"
+          },
+          "defCoordinator" : {
+            "age" : "40",
+            "name" : "Jesse Minter"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -849,6 +1049,14 @@
           "prestige" : "90",
           "hexColor" : "#BB0000",
           "rival" : "MICH",
+          "offCoordinator" : {
+            "age" : "37",
+            "name" : "Brian Hartline"
+          },
+          "defCoordinator" : {
+            "age" : "58",
+            "name" : "Jim Knowles"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -872,6 +1080,14 @@
           "prestige" : "60",
           "hexColor" : "#18453B",
           "rival" : "PSU",
+          "offCoordinator" : {
+            "age" : "43",
+            "name" : "Brian Lindgren"
+          },
+          "defCoordinator" : {
+            "age" : "49",
+            "name" : "Scottie Hazelton"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -895,6 +1111,14 @@
           "prestige" : "70",
           "hexColor" : "#041E42",
           "rival" : "MSU",
+          "offCoordinator" : {
+            "age" : "42",
+            "name" : "Andy Kotelnicki"
+          },
+          "defCoordinator" : {
+            "age" : "49",
+            "name" : "Manny Diaz"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -918,6 +1142,14 @@
           "prestige" : "50",
           "hexColor" : "#7A0019",
           "rival" : "WIS",
+          "offCoordinator" : {
+            "age" : "38",
+            "name" : "Matt Simon"
+          },
+          "defCoordinator" : {
+            "age" : "44",
+            "name" : "Joe Rossi"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -941,6 +1173,14 @@
           "prestige" : "60",
           "hexColor" : "#C5050C",
           "rival" : "MINN",
+          "offCoordinator" : {
+            "age" : "55",
+            "name" : "Phil Longo"
+          },
+          "defCoordinator" : {
+            "age" : "50",
+            "name" : "Mike Tressel"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -971,6 +1211,14 @@
           "prestige" : "50",
           "hexColor" : "#CC0033",
           "rival" : "ASU",
+          "offCoordinator" : {
+            "age" : "44",
+            "name" : "Brennan Carroll"
+          },
+          "defCoordinator" : {
+            "age" : "49",
+            "name" : "Johnny Nansen"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -994,6 +1242,14 @@
           "prestige" : "50",
           "hexColor" : "#8C1D40",
           "rival" : "ARIZ",
+          "offCoordinator" : {
+            "age" : "51",
+            "name" : "Beau Baldwin"
+          },
+          "defCoordinator" : {
+            "age" : "50",
+            "name" : "Brian Ward"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -1017,6 +1273,14 @@
           "prestige" : "40",
           "hexColor" : "#CFB87C",
           "rival" : "UTAH",
+          "offCoordinator" : {
+            "age" : "58",
+            "name" : "Pat Shurmur"
+          },
+          "defCoordinator" : {
+            "age" : "56",
+            "name" : "Charles Kelly"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -1040,6 +1304,14 @@
           "prestige" : "60",
           "hexColor" : "#CC0000",
           "rival" : "COLO",
+          "offCoordinator" : {
+            "age" : "59",
+            "name" : "Andy Ludwig"
+          },
+          "defCoordinator" : {
+            "age" : "44",
+            "name" : "Morgan Scalley"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -1063,6 +1335,14 @@
           "prestige" : "70",
           "hexColor" : "#154733",
           "rival" : "ORST",
+          "offCoordinator" : {
+            "age" : "34",
+            "name" : "Will Stein"
+          },
+          "defCoordinator" : {
+            "age" : "42",
+            "name" : "Tosh Lupoi"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -1086,6 +1366,14 @@
           "prestige" : "40",
           "hexColor" : "#DC4405",
           "rival" : "ORE",
+          "offCoordinator" : {
+            "age" : "42",
+            "name" : "Kefense Hynson"
+          },
+          "defCoordinator" : {
+            "age" : "33",
+            "name" : "Anthony Perkins"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -1109,6 +1397,14 @@
           "prestige" : "60",
           "hexColor" : "#2D68C4",
           "rival" : "USC",
+          "offCoordinator" : {
+            "age" : "43",
+            "name" : "DeShaun Foster"
+          },
+          "defCoordinator" : {
+            "age" : "58",
+            "name" : "Brian Norwood"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -1132,6 +1428,14 @@
           "prestige" : "80",
           "hexColor" : "#990000",
           "rival" : "UCLA",
+          "offCoordinator" : {
+            "age" : "48",
+            "name" : "Josh Henson"
+          },
+          "defCoordinator" : {
+            "age" : "34",
+            "name" : "D'Anton Lynn"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -1155,6 +1459,14 @@
           "prestige" : "70",
           "hexColor" : "#4B2E83",
           "rival" : "WSU",
+          "offCoordinator" : {
+            "age" : "46",
+            "name" : "Ryan Grubb"
+          },
+          "defCoordinator" : {
+            "age" : "49",
+            "name" : "William Inge"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
@@ -1178,6 +1490,14 @@
           "prestige" : "40",
           "hexColor" : "#981E32",
           "rival" : "WASH",
+          "offCoordinator" : {
+            "age" : "32",
+            "name" : "Ben Arbuckle"
+          },
+          "defCoordinator" : {
+            "age" : "45",
+            "name" : "Jeff Schmedding"
+          },
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
