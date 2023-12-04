@@ -210,16 +210,16 @@
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
-            "age" : "63",
-            "ratOff" : "60",
+            "age" : "43",
+            "ratOff" : "70",
             "cumulativePrestige" : "0",
-            "ratDef" : "60",
-            "ratPot" : "50",
+            "ratDef" : "50",
+            "ratPot" : "70",
             "ratTalent" : "60",
             "baselinePrestige" : "0",
             "ratDiscipline" : "60",
             "ratOvr" : "0",
-            "name" : "Willie Fritz",
+            "name" : "Slade Nagle",
             "contractYear" : "0"
           },
           "name" : "Tulane",
@@ -592,7 +592,7 @@
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
-            "age" : "55",
+            "age" : "63",
             "ratOff" : "60",
             "cumulativePrestige" : "0",
             "ratDef" : "60",
@@ -601,7 +601,7 @@
             "baselinePrestige" : "0",
             "ratDiscipline" : "70",
             "ratOvr" : "0",
-            "name" : "Corby Meekins",
+            "name" : "Willie Fritz",
             "contractYear" : "0"
           },
           "name" : "Houston",
@@ -1231,6 +1231,8 @@
           "prestige" : "90",
           "hexColor" : "#9E1B32",
           "rival" : "AUB",
+          "offCoordinator" : "Tommy Rees",
+          "defCoordinator" : "Kevin Steele",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
