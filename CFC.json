@@ -55,8 +55,8 @@
           "hexColor" : "#592A8A",
           "rival" : "CLT",
           "offCoordinator" : {
-            "age" : "64",
-            "name" : "Donnie Kirkpatrick"
+            "age" : "33",
+            "name" : "John David Baker"
           },
           "defCoordinator" : {
             "age" : "45",
@@ -372,12 +372,12 @@
           "hexColor" : "#F76900",
           "rival" : "BC",
           "offCoordinator" : {
-            "age" : "43",
-            "name" : "Jason Beck"
+            "age" : "49",
+            "name" : "Jeff Nixon"
           },
           "defCoordinator" : {
-            "age" : "73",
-            "name" : "Rocky Long"
+            "age" : "38",
+            "name" : "Elijah Robinson"
           },
           "headCoach" : {
             "contractLength" : "5",
@@ -658,8 +658,8 @@
           "hexColor" : "#154734",
           "rival" : "TCU",
           "offCoordinator" : {
-            "age" : "55",
-            "name" : "Jeff Grimes"
+            "age" : "38",
+            "name" : "Jake Spavital"
           },
           "defCoordinator" : {
             "age" : "36",
@@ -975,12 +975,12 @@
           "hexColor" : "#990000",
           "rival" : "PUR",
           "offCoordinator" : {
-            "age" : "52",
-            "name" : "Rod Carey"
+            "age" : "33",
+            "name" : "Mike Shanahan"
           },
           "defCoordinator" : {
-            "age" : "45",
-            "name" : "Chad Wilt"
+            "age" : "38",
+            "name" : "Bryant Haines"
           },
           "headCoach" : {
             "contractLength" : "5",
@@ -1323,8 +1323,8 @@
           "hexColor" : "#8C1D40",
           "rival" : "ARIZ",
           "offCoordinator" : {
-            "age" : "51",
-            "name" : "Beau Baldwin"
+            "age" : "43",
+            "name" : "Marcus Arroyo"
           },
           "defCoordinator" : {
             "age" : "50",
@@ -1447,8 +1447,8 @@
           "hexColor" : "#DC4405",
           "rival" : "ORE",
           "offCoordinator" : {
-            "age" : "42",
-            "name" : "Kefense Hynson"
+            "age" : "39",
+            "name" : "Ryan Gunderson"
           },
           "defCoordinator" : {
             "age" : "33",
@@ -2089,7 +2089,7 @@
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
-            "age" : "40",
+            "age" : "34",
             "ratOff" : "60",
             "cumulativePrestige" : "0",
             "ratDef" : "60",
@@ -2098,7 +2098,7 @@
             "baselinePrestige" : "0",
             "ratDiscipline" : "60",
             "ratOvr" : "0",
-            "name" : "Barrick Nealy",
+            "name" : "Scotty Walden",
             "contractYear" : "0"
           },
           "name" : "UTEP",
@@ -2777,16 +2777,16 @@
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
-            "age" : "35",
+            "age" : "53",
             "ratOff" : "60",
             "cumulativePrestige" : "0",
             "ratDef" : "60",
-            "ratPot" : "70",
+            "ratPot" : "60",
             "ratTalent" : "50",
             "baselinePrestige" : "0",
             "ratDiscipline" : "60",
             "ratOvr" : "0",
-            "name" : "Vai Taua",
+            "name" : "Jeff Choate",
             "contractYear" : "0"
           },
           "name" : "Nevada",
@@ -2991,7 +2991,7 @@
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
-            "age" : "49",
+            "age" : "48",
             "ratOff" : "60",
             "cumulativePrestige" : "0",
             "ratDef" : "60",
@@ -3000,7 +3000,7 @@
             "baselinePrestige" : "0",
             "ratDiscipline" : "60",
             "ratOvr" : "0",
-            "name" : "Broderick Fobbs",
+            "name" : "Bryant Vincent",
             "contractYear" : "0"
           },
           "name" : "Louisiana Monroe",
