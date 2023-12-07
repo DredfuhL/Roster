@@ -875,8 +875,8 @@
           "hexColor" : "#512888",
           "rival" : "KAN",
           "offCoordinator" : {
-            "age" : "34",
-            "name" : "Collin Klein"
+            "age" : "53",
+            "name" : "Van Malone"
           },
           "defCoordinator" : {
             "age" : "44",
@@ -1671,8 +1671,8 @@
           "hexColor" : "#500000",
           "rival" : "LSU",
           "offCoordinator" : {
-            "age" : "50",
-            "name" : "James Coley"
+            "age" : "34",
+            "name" : "Collin Klein"
           },
           "defCoordinator" : {
             "age" : "45",
@@ -1861,8 +1861,8 @@
             "name" : "Kevin Barbay"
           },
           "defCoordinator" : {
-            "age" : "35",
-            "name" : "Matt Brock"
+            "age" : "39",
+            "name" : "Coleman Hutzler"
           },
           "headCoach" : {
             "contractLength" : "5",
@@ -2846,16 +2846,16 @@
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2023",
-            "age" : "65",
+            "age" : "52",
             "ratOff" : "50",
             "cumulativePrestige" : "0",
             "ratDef" : "70",
-            "ratPot" : "50",
+            "ratPot" : "60",
             "ratTalent" : "60",
             "baselinePrestige" : "0",
             "ratDiscipline" : "60",
             "ratOvr" : "0",
-            "name" : "Craig Bohl",
+            "name" : "Jay Sawvel",
             "contractYear" : "0"
           },
           "name" : "Wyoming",
